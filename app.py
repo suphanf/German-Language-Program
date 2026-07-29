@@ -13,6 +13,7 @@ import tkinter as tk
 from tkinter import font as tkfont
 from tkinter import ttk
 
+import scores as scores_store
 from vocab_parser import Group, Word, normalize_user_answer, parse_vocabulary
 
 DATA_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "german_a1_vocabulary.md")
@@ -77,18 +78,30 @@ class MenuFrame(ttk.Frame):
         self.listbox.pack(side="left", fill="both", expand=True)
         scrollbar.pack(side="right", fill="y")
 
-        for group in app.groups:
-            self.listbox.insert(
-                "end", f"{group.number}. {group.title} ({len(group.words)} words)"
-            )
+        self.refresh_list()
 
         self.listbox.bind("<Double-Button-1>", lambda e: self.start_selected())
         self.listbox.bind("<Return>", lambda e: self.start_selected())
-        self.listbox.selection_set(0)
 
         ttk.Button(self, text="Start Practice", command=self.start_selected).pack(pady=(0, 20))
 
+    def refresh_list(self) -> None:
+        selection = self.listbox.curselection()
+        selected_index = selection[0] if selection else 0
+
+        latest_scores = scores_store.load_scores()
+        self.listbox.delete(0, "end")
+        for group in self.app.groups:
+            entry = f"{group.number}. {group.title} ({len(group.words)} words)"
+            score = latest_scores.get(group.number)
+            if score:
+                entry += f"  —  Last score: {score['correct']}/{score['total']}"
+            self.listbox.insert("end", entry)
+
+        self.listbox.selection_set(selected_index)
+
     def on_show(self) -> None:
+        self.refresh_list()
         self.listbox.focus_set()
 
     def start_selected(self) -> None:
@@ -231,6 +244,7 @@ class SummaryFrame(ttk.Frame):
         total = len(words)
         correct = sum(1 for r in results if r)
         incorrect = total - correct
+        scores_store.save_score(group.number, correct, total)
         self.stats_label.config(
             text=f"Group {group.number}: {group.title}\nTotal: {total}   Correct: {correct}   Incorrect: {incorrect}"
         )
