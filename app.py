@@ -120,9 +120,8 @@ class PracticeFrame(ttk.Frame):
         self.stats_label.pack(side="right")
 
         self.progress_label = ttk.Label(self, font=app.normal_font)
-        self.progress_label.pack(pady=(0, 10))
+        self.progress_label.pack(pady=(25, 30))
 
-        ttk.Label(self, text="English meaning:", font=app.normal_font).pack(pady=(20, 5))
         self.english_label = ttk.Label(self, font=app.big_font, wraplength=560, justify="center")
         self.english_label.pack(pady=(0, 20))
 
@@ -193,7 +192,7 @@ class PracticeFrame(ttk.Frame):
             self.feedback_label.config(text="Correct!", foreground="green")
         else:
             self.feedback_label.config(text="Incorrect", foreground="red")
-        self.answer_label.config(text=f"German: {word.german_display}")
+        self.answer_label.config(text=word.german_display)
         self.action_button.config(text="Next")
         self.state = "feedback"
 
