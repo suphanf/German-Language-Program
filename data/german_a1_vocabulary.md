@@ -1,0 +1,1605 @@
+# German A1 Vocabulary (Goethe-Zertifikat A1 · Start Deutsch 1)
+
+Nouns are given with their definite article and plural form in brackets, e.g. **der Apfel** (Äpfel) = *die Äpfel*.
+Verbs marked (irr.) are irregular; separable verbs are marked with a `|`, e.g. **an|rufen**.
+A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: it always needs an adjective ending, which changes with gender, case and the preceding article (*letzte Woche*, *letzten Monat*, *am letzten Tag*).
+
+---
+
+## 1. Greetings, Politeness & Small Talk
+
+- **Hallo** – hello
+- **Guten Morgen** – good morning
+- **Guten Tag** – good day / hello
+- **Guten Abend** – good evening
+- **Gute Nacht** – good night
+- **Grüß Gott** – hello (Southern Germany, Austria)
+- **Servus** – hi / bye (Southern Germany, Austria)
+- **Tschüs / Tschüss** – bye
+- **Auf Wiedersehen** – goodbye
+- **Auf Wiederhören** – goodbye (on the phone)
+- **Bis bald** – see you soon
+- **Bis später** – see you later
+- **Bis morgen** – see you tomorrow
+- **Bis dann** – see you then
+- **Schönen Tag noch** – have a nice day
+- **Willkommen** – welcome
+- **Wie geht es Ihnen? / Wie geht's?** – how are you?
+- **Mir geht es gut.** – I'm fine.
+- **Es geht.** – so-so
+- **Und Ihnen? / Und dir?** – and you?
+- **bitte** – please / you're welcome
+- **danke** – thank you
+- **Danke schön / Vielen Dank** – thank you very much
+- **Bitte schön** – you're welcome / here you go
+- **Gern geschehen** – you're welcome
+- **Entschuldigung** – excuse me / sorry
+- **entschuldigen** – to excuse
+- **Es tut mir leid.** – I'm sorry.
+- **Kein Problem.** – no problem
+- **Macht nichts.** – never mind
+- **ja** – yes
+- **nein** – no
+- **doch** – yes (contradicting a negative)
+- **vielleicht** – maybe
+- **natürlich** – of course
+- **klar** – sure
+- **gern / gerne** – gladly
+- **okay / in Ordnung** – okay
+- **Viel Glück** – good luck
+- **Viel Spaß** – have fun
+- **Viel Erfolg** – good luck (with work/exam)
+- **Gute Besserung** – get well soon
+- **Gute Reise** – have a good trip
+- **Guten Appetit** – enjoy your meal
+- **Prost** – cheers
+- **Herzlichen Glückwunsch** – congratulations
+- **Alles Gute** – all the best
+- **Alles Gute zum Geburtstag** – happy birthday
+- **Frohe Weihnachten** – merry Christmas
+- **Frohes neues Jahr** – happy new year
+- **Schöne Grüße / Liebe Grüße** – best regards / kind regards
+- **der Gruß** (Grüße) – greeting
+- **Sehr geehrte Damen und Herren** – Dear Sir or Madam
+- **die Anrede** (-n) – form of address, salutation
+- **Liebe/Lieber ...** – Dear ... (informal letter)
+
+---
+
+## 2. Personal Information
+
+- **der Name** (Namen) – name
+- **der Vorname** (Vornamen) – first name
+- **der Familienname / der Nachname** (-n) – surname
+- **die Adresse** (Adressen) – address
+- **die Straße** (Straßen) – street
+- **die Hausnummer** (-n) – house number
+- **die Postleitzahl (PLZ)** (-en) – postal code
+- **der Ort** (Orte) – place, town
+- **der Wohnort** (-e) – place of residence
+- **die Stadt** (Städte) – city
+- **das Land** (Länder) – country
+- **die Telefonnummer** (-n) – telephone number
+- **das Telefon** (-e) – telephone
+- **die Vorwahl** (-en) – dialling code
+- **der Anruf** (-e) – phone call
+- **der Anrufbeantworter** (–) – answering machine
+- **die Handynummer** (-n) – mobile number
+- **das Handy** (Handys) – mobile phone
+- **die E-Mail** (E-Mails) – email
+- **die E-Mail-Adresse** (-n) – email address
+- **das Alter** – age
+- **der Geburtstag** (-e) – birthday
+- **das Geburtsdatum** (Geburtsdaten) – date of birth
+- **das Geburtsjahr** (-e) – year of birth
+- **der Geburtsort** (-e) – place of birth
+- **geboren** – born
+- **das Geschlecht** (-er) – gender
+- **männlich** – male
+- **weiblich** – female
+- **der Familienstand** – marital status
+- **ledig** – single
+- **verheiratet** – married
+- **geschieden** – divorced
+- **die Staatsangehörigkeit** (-en) – nationality
+- **die Sprache** (Sprachen) – language
+- **die Muttersprache** (-n) – mother tongue
+- **der Beruf** (Berufe) – profession
+- **das Formular** (Formulare) – form
+- **die Unterschrift** (-en) – signature
+- **unterschreiben** – to sign
+- **der Ausweis** (-e) – ID card
+- **der Personalausweis** (-e) – identity card
+- **die Papiere** (pl.) – documents, papers
+- **der Pass / der Reisepass** (Pässe) – passport
+- **das Visum** (Visa) – visa
+- **die Anmeldung** (-en) – registration
+- **an|melden** – to register
+- **heißen** (irr.) – to be called
+- **wohnen** – to live, reside
+- **leben** – to live
+- **kommen aus** – to come from
+- **buchstabieren** – to spell
+- **das Alphabet** – alphabet
+- **der Buchstabe** (-n) – letter (of the alphabet)
+
+---
+
+## 3. Numbers & Quantities
+
+- **null** – 0
+- **eins** – 1
+- **zwei** – 2
+- **drei** – 3
+- **vier** – 4
+- **fünf** – 5
+- **sechs** – 6
+- **sieben** – 7
+- **acht** – 8
+- **neun** – 9
+- **zehn** – 10
+- **elf** – 11
+- **zwölf** – 12
+- **dreizehn** – 13
+- **vierzehn** – 14
+- **fünfzehn** – 15
+- **sechzehn** – 16
+- **siebzehn** – 17
+- **achtzehn** – 18
+- **neunzehn** – 19
+- **zwanzig** – 20
+- **einundzwanzig** – 21
+- **dreißig** – 30
+- **vierzig** – 40
+- **fünfzig** – 50
+- **sechzig** – 60
+- **siebzig** – 70
+- **achtzig** – 80
+- **neunzig** – 90
+- **(ein)hundert** – 100
+- **(ein)tausend** – 1000
+- **die Million** (-en) – million
+- **erst-** – first (*der erste Tag*, *am ersten Tag*)
+- **zweit-** – second
+- **dritt-** – third
+- **viert-** – fourth
+- **fünft-** – fifth
+- **die Zahl** (Zahlen) – number (figure)
+- **die Nummer** (Nummern) – number (of a house, phone)
+- **halb** – half
+- **die Hälfte** (-n) – the half
+- **ein Viertel** – a quarter
+- **das Prozent** (-e) – percent
+- **das Paar / ein paar** – pair / a few
+- **das Stück** (-e) – piece
+- **das Gramm** – gram
+- **das Kilo / das Kilogramm** – kilogram
+- **das Gewicht** (-e) – weight
+- **das Pfund** – pound (500 g)
+- **der Liter** – litre
+- **der Meter** – metre
+- **der Kilometer** – kilometre
+- **das Grad** – degree
+- **plus / minus** – plus / minus
+- **mal** – times
+- **geteilt durch** – divided by
+- **rechnen** – to calculate
+- **zählen** – to count
+- **viel** – much
+- **wenig** – little
+- **mehr** – more
+- **weniger** – less
+- **alle / alles** – all / everything
+- **etwas** – something, some
+- **nichts** – nothing
+- **genug** – enough
+- **ungefähr / etwa** – approximately
+- **circa (ca.)** – about
+- **fast** – almost
+- **ganz** – whole, quite
+- **nur** – only
+- **noch ein** – one more
+
+---
+
+## 4. Time, Days, Months & Seasons
+
+- **die Zeit** (-en) – time
+- **die Uhr** (Uhren) – clock, o'clock
+- **die Uhrzeit** (-en) – time of day
+- **die Sekunde** (-n) – second
+- **die Minute** (Minuten) – minute
+- **die Stunde** (Stunden) – hour
+- **die Viertelstunde** (-n) – quarter of an hour
+- **der Tag** (Tage) – day
+- **die Woche** (Wochen) – week
+- **das Wochenende** (-n) – weekend
+- **der Monat** (Monate) – month
+- **das Jahr** (Jahre) – year
+- **die Jahreszeit** (-en) – season
+- **das Datum** (Daten) – date
+- **der Kalender** (–) – calendar
+- **der Termin** (-e) – appointment
+- **der Morgen** – morning
+- **der Vormittag** (-e) – late morning
+- **der Mittag** (-e) – noon
+- **der Nachmittag** (-e) – afternoon
+- **der Abend** (-e) – evening
+- **die Nacht** (Nächte) – night
+- **morgens** – in the morning
+- **mittags** – at midday
+- **abends** – in the evening
+- **nachts** – at night
+- **heute** – today
+- **morgen** – tomorrow
+- **übermorgen** – the day after tomorrow
+- **gestern** – yesterday
+- **vorgestern** – the day before yesterday
+- **jetzt** – now
+- **gerade** – just now, at the moment
+- **zurzeit** – at present
+- **der Moment** (-e) – moment
+- **gleich** – right away
+- **sofort** – immediately
+- **bald** – soon
+- **später** – later
+- **früher** – earlier
+- **zuerst** – first
+- **der Anfang** (Anfänge) – beginning
+- **das Ende** (-n) – end
+- **der Schluss** – end, conclusion
+- **dann** – then
+- **danach** – afterwards
+- **endlich** – finally
+- **schon** – already
+- **noch** – still
+- **wieder** – again
+- **immer** – always
+- **meistens** – mostly
+- **oft** – often
+- **manchmal** – sometimes
+- **selten** – rarely
+- **nie / niemals** – never
+- **täglich** – daily
+- **einmal** – once
+- **zweimal** – twice
+- **pünktlich** – punctual
+- **früh** – early
+- **spät** – late
+- **Wann?** – when?
+- **Wie lange?** – how long?
+- **Wie oft?** – how often?
+- **Wie spät ist es?** – what time is it?
+- **um** – at (a time)
+- **von ... bis** – from ... to
+- **ab** – from (a time onwards)
+- **seit** – since, for
+- **vor** – before, ago
+- **nach** – after
+
+**Days of the week**
+- **der Montag** – Monday
+- **der Dienstag** – Tuesday
+- **der Mittwoch** – Wednesday
+- **der Donnerstag** – Thursday
+- **der Freitag** – Friday
+- **der Samstag / der Sonnabend** – Saturday
+- **der Sonntag** – Sunday
+- **der Werktag** (-e) – working day
+- **der Feiertag** (-e) – public holiday
+
+**Months**
+- **der Januar** – January
+- **der Februar** – February
+- **der März** – March
+- **der April** – April
+- **der Mai** – May
+- **der Juni** – June
+- **der Juli** – July
+- **der August** – August
+- **der September** – September
+- **der Oktober** – October
+- **der November** – November
+- **der Dezember** – December
+
+**Seasons**
+- **der Frühling** – spring
+- **der Sommer** – summer
+- **der Herbst** – autumn
+- **der Winter** – winter
+
+---
+
+## 5. Family & People
+
+- **die Familie** (Familien) – family
+- **die Eltern** (pl.) – parents
+- **der Vater** (Väter) – father
+- **die Mutter** (Mütter) – mother
+- **der Papa / der Vati** – dad
+- **die Mama / die Mutti** – mum
+- **das Kind** (Kinder) – child
+- **der Sohn** (Söhne) – son
+- **die Tochter** (Töchter) – daughter
+- **die Geschwister** (pl.) – siblings
+- **der Bruder** (Brüder) – brother
+- **die Schwester** (Schwestern) – sister
+- **die Großeltern** (pl.) – grandparents
+- **der Großvater / der Opa** (Großväter / Opas) – grandfather
+- **die Großmutter / die Oma** (Großmütter / Omas) – grandmother
+- **der Enkel** (–) / **die Enkelin** (-nen) – grandson / granddaughter
+- **der Onkel** (–) – uncle
+- **die Tante** (-n) – aunt
+- **der Cousin** (-s) / **die Cousine** (-n) – cousin
+- **der Neffe** (-n) – nephew
+- **die Nichte** (-n) – niece
+- **der Mann** (Männer) – man, husband
+- **die Frau** (Frauen) – woman, wife
+- **der Herr** (-en) – gentleman, Mr
+- **die Dame** (-n) – lady
+- **der Ehemann / die Ehefrau** – husband / wife
+- **der Partner** (–) / **die Partnerin** (-nen) – partner
+- **der Freund** (Freunde) / **die Freundin** (-nen) – friend, boyfriend / girlfriend
+- **der Junge** (Jungen) – boy
+- **das Mädchen** (–) – girl
+- **das Baby** (Babys) – baby
+- **der/die Erwachsene** (-n) – adult
+- **der Mensch** (Menschen) – human being, person
+- **die Person** (Personen) – person
+- **die Leute** (pl.) – people
+- **der Nachbar** (-n) / **die Nachbarin** (-nen) – neighbour
+- **der Gast** (Gäste) – guest
+- **der/die Bekannte** (-n) – acquaintance
+- **der Jugendliche** (-n) – young person, teenager
+- **der Kollege** (-n) / **die Kollegin** (-nen) – colleague
+- **der Chef** (-s) / **die Chefin** (-nen) – boss
+- **die Hochzeit** (-en) – wedding
+- **heiraten** – to marry
+- **gestorben** – died, deceased
+- **tot** – dead
+- **kennen|lernen** – to get to know
+- **verwandt** – related
+- **die Verwandten** (pl.) – relatives
+
+---
+
+## 6. Countries, Nationalities & Languages
+
+- **Deutschland** – Germany
+- **deutsch** – German
+- **Österreich** – Austria
+- **die Schweiz** – Switzerland
+- **Frankreich** – France
+- **französisch** – French
+- **Italien** – Italy
+- **italienisch** – Italian
+- **Spanien** – Spain
+- **spanisch** – Spanish
+- **England / Großbritannien** – England / Great Britain
+- **englisch** – English
+- **Polen** – Poland
+- **polnisch** – Polish
+- **Russland** – Russia
+- **russisch** – Russian
+- **die Türkei** – Turkey
+- **türkisch** – Turkish
+- **Griechenland** – Greece
+- **griechisch** – Greek
+- **die Niederlande** – the Netherlands
+- **Portugal** – Portugal
+- **portugiesisch** – Portuguese
+- **die USA / Amerika** – the USA / America
+- **amerikanisch** – American
+- **China** – China
+- **chinesisch** – Chinese
+- **Japan** – Japan
+- **japanisch** – Japanese
+- **Indien** – India
+- **Brasilien** – Brazil
+- **Ägypten** – Egypt
+- **arabisch** – Arabic
+- **der Deutsche / die Deutsche** – German (person)
+- **der Ausländer** (–) / **die Ausländerin** (-nen) – foreigner
+- **ausländisch** – foreign
+- **das Ausland** – abroad
+- **die Heimat** – home country
+- **die Nationalität** (-en) – nationality
+- **international** – international
+- **der Kontinent** (-e) – continent
+- **Europa** – Europe
+- **Afrika** – Africa
+- **Asien** – Asia
+- **Amerika** – America
+- **Australien** – Australia
+
+---
+
+## 7. Home & Living
+
+- **die Wohnung** (Wohnungen) – flat, apartment
+- **das Haus** (Häuser) – house
+- **das Zimmer** (–) – room
+- **der Raum** (Räume) – room, space
+- **das Wohnzimmer** (–) – living room
+- **das Schlafzimmer** (–) – bedroom
+- **das Kinderzimmer** (–) – children's room
+- **das Arbeitszimmer** (–) – study
+- **die Küche** (Küchen) – kitchen
+- **das Bad / das Badezimmer** (Bäder) – bathroom
+- **die Toilette / das WC** (-n) – toilet
+- **der Flur** (-e) – hallway
+- **der Balkon** (-e/-s) – balcony
+- **die Terrasse** (-n) – terrace
+- **der Garten** (Gärten) – garden
+- **der Keller** (–) – cellar
+- **die Garage** (-n) – garage
+- **die Treppe** (-n) – stairs
+- **der Aufzug / der Fahrstuhl** (-züge/-stühle) – lift, elevator
+- **die Tür** (Türen) – door
+- **das Fenster** (–) – window
+- **die Wand** (Wände) – wall
+- **der Boden** (Böden) – floor
+- **die Decke** (-n) – ceiling; blanket
+- **das Dach** (Dächer) – roof
+- **der Stock / die Etage** (-werke/-n) – floor, storey
+- **das Erdgeschoss** – ground floor
+- **die Miete** (-n) – rent
+- **der Mieter** (–) – tenant
+- **der Vermieter** (–) – landlord
+- **die Nebenkosten** (pl.) – additional costs
+- **der Quadratmeter (qm)** – square metre
+- **die Wohngemeinschaft (WG)** (-en) – shared flat
+- **der Hausmeister** (–) – caretaker
+- **um|ziehen** (irr.) – to move house
+- **mieten** – to rent
+- **vermieten** – to rent out (as landlord)
+- **die Reparatur** (-en) – repair
+- **die Möbel** (pl.) – furniture
+- **der Tisch** (Tische) – table
+- **der Stuhl** (Stühle) – chair
+- **der Sessel** (–) – armchair
+- **das Sofa** (-s) – sofa
+- **das Bett** (Betten) – bed
+- **der Schrank** (Schränke) – cupboard, wardrobe
+- **der Kühlschrank** (-schränke) – fridge
+- **das Regal** (Regale) – shelf
+- **die Lampe** (Lampen) – lamp
+- **das Licht** (-er) – light
+- **der Teppich** (-e) – carpet
+- **der Spiegel** (–) – mirror
+- **das Bild** (Bilder) – picture
+- **der Herd** (-e) – cooker, stove
+- **der Ofen** (Öfen) – oven
+- **die Mikrowelle** (-n) – microwave
+- **die Spülmaschine** (-n) – dishwasher
+- **die Waschmaschine** (-n) – washing machine
+- **die Maschine** (-n) – machine
+- **der Fernseher** (–) – TV set
+- **der Computer** (–) – computer
+- **die Dusche** (-n) – shower
+- **die Badewanne** (-n) – bathtub
+- **baden** – to have a bath
+- **das Waschbecken** (–) – washbasin
+- **das Handtuch** (-tücher) – towel
+- **die Seife** (-n) – soap
+- **das Kissen** (–) – pillow, cushion
+- **der Schlüssel** (–) – key
+- **die Heizung** (-en) – heating
+- **der Strom** – electricity
+- **die Klingel** (-n) – doorbell
+- **klingeln** – to ring
+- **auf|räumen** – to tidy up
+- **putzen** – to clean
+- **sauber machen** – to clean
+- **waschen** (irr.) – to wash
+- **spülen** – to wash up
+- **hell** – bright
+- **dunkel** – dark
+- **gemütlich** – cosy
+- **bequem** – comfortable
+
+---
+
+## 8. Food & Drink
+
+**Meals**
+- **das Essen** (–) – food, meal
+- **das Frühstück** – breakfast
+- **das Mittagessen** – lunch
+- **das Abendessen / das Abendbrot** – dinner
+- **der Hunger** – hunger
+- **hungrig** – hungry
+- **der Durst** – thirst
+- **durstig** – thirsty
+- **satt** – full
+
+**Drinks**
+- **das Getränk** (Getränke) – drink
+- **das Wasser** – water
+- **das Mineralwasser** – mineral water
+- **der Saft** (Säfte) – juice
+- **der Orangensaft** – orange juice
+- **die Milch** – milk
+- **der Kaffee** – coffee
+- **der Tee** – tea
+- **das Bier** (-e) – beer
+- **der Wein** (-e) – wine
+- **die Cola** (-s) – cola
+- **die Limonade** (-n) – lemonade
+
+**Food**
+- **das Brot** (Brote) – bread
+- **das Brötchen** (–) – bread roll
+- **der Toast** – toast
+- **die Butter** – butter
+- **die Marmelade** (-n) – jam
+- **der Honig** – honey
+- **der Käse** – cheese
+- **die Wurst** (Würste) – sausage
+- **der Schinken** – ham
+- **das Fleisch** – meat
+- **das Hähnchen** (–) – chicken
+- **das Rindfleisch** – beef
+- **das Schweinefleisch** – pork
+- **der Fisch** (-e) – fish
+- **das Ei** (Eier) – egg
+- **der Reis** – rice
+- **die Nudeln** (pl.) – pasta, noodles
+- **die Kartoffel** (Kartoffeln) – potato
+- **die Pommes (frites)** (pl.) – chips, fries
+- **die Suppe** (-n) – soup
+- **der Salat** (-e) – salad, lettuce
+- **das Gemüse** – vegetables
+- **die Tomate** (-n) – tomato
+- **die Gurke** (-n) – cucumber
+- **die Zwiebel** (-n) – onion
+- **die Karotte / die Möhre** (-n) – carrot
+- **der Pilz** (-e) – mushroom
+- **der Paprika** (-s) – pepper (vegetable)
+- **das Obst** – fruit
+- **der Apfel** (Äpfel) – apple
+- **die Banane** (-n) – banana
+- **die Orange** (-n) – orange
+- **die Zitrone** (-n) – lemon
+- **die Birne** (-n) – pear
+- **die Erdbeere** (-n) – strawberry
+- **die Traube** (-n) – grape
+- **der Zucker** – sugar
+- **das Salz** – salt
+- **der Pfeffer** – pepper (spice)
+- **das Öl** (-e) – oil
+- **das Mehl** – flour
+- **der Kuchen** (–) – cake
+- **die Torte** (-n) – gateau, layer cake
+- **das Eis** – ice cream, ice
+- **die Schokolade** (-n) – chocolate
+- **der Keks** (-e) – biscuit, cookie
+- **das Bonbon** (-s) – sweet, candy
+- **das Müsli** (-s) – muesli
+- **der Joghurt** (-s) – yoghurt
+- **die Sahne** – cream
+
+**Eating out**
+- **das Restaurant** (-s) – restaurant
+- **das Café** (-s) – café
+- **die Kneipe** (-n) – pub
+- **das Lokal** (-e) – pub, restaurant
+- **die Speisekarte** (-n) – menu
+- **die Rechnung** (-en) – bill
+- **das Trinkgeld** (-er) – tip
+- **der Kellner** (–) / **die Kellnerin** (-nen) – waiter / waitress
+- **die Bedienung** – service, waiter
+- **das Glas** (Gläser) – glass
+- **die Tasse** (-n) – cup
+- **der Teller** (–) – plate
+- **die Flasche** (-n) – bottle
+- **die Dose** (-n) – can, tin
+- **die Gabel** (-n) – fork
+- **das Messer** (–) – knife
+- **der Löffel** (–) – spoon
+- **die Serviette** (-n) – napkin
+- **das Rezept** (-e) – recipe; prescription
+
+**Verbs & adjectives**
+- **essen** (irr.) – to eat
+- **trinken** (irr.) – to drink
+- **frühstücken** – to have breakfast
+- **kochen** – to cook
+- **backen** – to bake
+- **grillen** – to barbecue
+- **schmecken** – to taste (good)
+- **probieren** – to try, taste
+- **bestellen** – to order
+- **bezahlen** – to pay
+- **lecker** – delicious
+- **süß** – sweet
+- **sauer** – sour
+- **salzig** – salty
+- **scharf** – spicy
+- **bitter** – bitter
+- **frisch** – fresh
+- **warm** – warm
+- **kalt** – cold
+- **vegetarisch** – vegetarian
+
+---
+
+## 9. Shopping, Money & Clothing
+
+- **ein|kaufen** – to shop
+- **kaufen** – to buy
+- **verkaufen** – to sell
+- **bezahlen / zahlen** – to pay
+- **kosten** – to cost
+- **brauchen** – to need
+- **suchen** – to look for
+- **finden** (irr.) – to find
+- **an|probieren** – to try on
+- **um|tauschen** – to exchange
+- **schenken** – to give (a present)
+- **das Geschäft** (-e) – shop
+- **der Laden** (Läden) – shop
+- **der Supermarkt** (-märkte) – supermarket
+- **das Kaufhaus** (-häuser) – department store
+- **das Einkaufszentrum** (-zentren) – shopping centre
+- **die Bäckerei** (-en) – bakery
+- **die Metzgerei** (-en) – butcher's
+- **die Apotheke** (-n) – pharmacy
+- **die Drogerie** (-n) – drugstore
+- **die Buchhandlung** (-en) – bookshop
+- **der Markt** (Märkte) – market
+- **der Kiosk** (-e) – kiosk, newsstand
+- **die Kasse** (-n) – checkout, till
+- **der Preis** (Preise) – price
+- **das Geld** – money
+- **der Euro** (-s) – euro
+- **der Cent** (-s) – cent
+- **das Sonderangebot** (-e) – special offer
+- **das Angebot** (-e) – offer, deal
+- **der Rabatt** (-e) – discount
+- **die Größe** (-n) – size
+- **die Quittung / der Kassenbon** (-en/-s) – receipt
+- **die Tüte** (-n) – bag
+- **die Packung** (-en) – packet
+- **der Einkaufswagen** (–) – shopping trolley
+- **die Lebensmittel** (pl.) – groceries, food
+- **die Zigarette** (-n) – cigarette
+- **der Kunde** (-n) / **die Kundin** (-nen) – customer
+- **die Anzeige** (-n) – advertisement, notice
+- **die Bank** (-en) – bank
+- **das Konto** (Konten) – account
+- **die Kreditkarte** (-n) – credit card
+- **überweisen** – to transfer (money)
+- **die EC-Karte** (-n) – debit card
+- **bar / in bar** – in cash
+- **teuer** – expensive
+- **billig** – cheap
+- **günstig** – reasonably priced
+- **kostenlos / gratis** – free of charge
+- **geöffnet / offen** – open
+- **geschlossen / zu** – closed
+- **die Öffnungszeiten** (pl.) – opening hours
+
+**Clothes**
+- **die Kleidung** – clothing
+- **das Kleid** (-er) – dress
+- **die Hose** (-n) – trousers
+- **die Jeans** (–) – jeans
+- **der Rock** (Röcke) – skirt
+- **das Hemd** (-en) – shirt
+- **die Bluse** (-n) – blouse
+- **das T-Shirt** (-s) – T-shirt
+- **der Pullover / der Pulli** (–/-s) – jumper, sweater
+- **die Jacke** (-n) – jacket
+- **der Mantel** (Mäntel) – coat
+- **der Anzug** (Anzüge) – suit
+- **die Socke** (Socken) – sock
+- **der Schuh** (Schuhe) – shoe
+- **der Stiefel** (–) – boot
+- **die Mütze** (-n) – cap
+- **der Hut** (Hüte) – hat
+- **der Schal** (-s) – scarf
+- **der Handschuh** (-e) – glove
+- **der Gürtel** (–) – belt
+- **die Brille** (-n) – glasses
+- **die Tasche** (-n) – bag; pocket
+- **der Rucksack** (-säcke) – backpack
+- **der Ring** (-e) – ring
+- **der Schmuck** – jewellery
+- **an|ziehen** (irr.) – to put on
+- **aus|ziehen** (irr.) – to take off
+- **tragen** (irr.) – to wear, carry
+- **passen** – to fit
+- **stehen** (irr.) – to suit (jemandem stehen)
+
+---
+
+## 10. Body & Health
+
+- **der Körper** (–) – body
+- **der Kopf** (Köpfe) – head
+- **das Haar** (Haare) – hair
+- **das Gesicht** (-er) – face
+- **das Auge** (Augen) – eye
+- **die Nase** (-n) – nose
+- **der Mund** (Münder) – mouth
+- **das Ohr** (Ohren) – ear
+- **der Zahn** (Zähne) – tooth
+- **der Hals** (Hälse) – neck, throat
+- **die Schulter** (-n) – shoulder
+- **der Arm** (Arme) – arm
+- **die Hand** (Hände) – hand
+- **der Finger** (–) – finger
+- **der Bauch** (Bäuche) – stomach, belly
+- **der Rücken** (–) – back
+- **das Bein** (Beine) – leg
+- **der Fuß** (Füße) – foot
+- **das Knie** (–) – knee
+- **das Herz** (-en) – heart
+- **das Blut** – blood
+- **die Haut** – skin
+- **die Gesundheit** – health
+- **gesund** – healthy
+- **krank** – ill
+- **die Krankheit** (-en) – illness
+- **die Erkältung** (-en) – cold
+- **erkältet sein** – to have a cold
+- **das Fieber** – fever
+- **die Grippe** – flu
+- **der Husten** – cough
+- **der Schnupfen** – runny nose
+- **die Schmerzen** (pl.) – pain
+- **die Kopfschmerzen** (pl.) – headache
+- **die Bauchschmerzen** (pl.) – stomach ache
+- **die Zahnschmerzen** (pl.) – toothache
+- **die Halsschmerzen** (pl.) – sore throat
+- **die Allergie** (-n) – allergy
+- **der Unfall** (Unfälle) – accident
+- **die Verletzung** (-en) – injury
+- **der Arzt** (Ärzte) / **die Ärztin** (-nen) – doctor
+- **der Zahnarzt** (-ärzte) – dentist
+- **der Doktor** (-en) – doctor
+- **die Praxis** (Praxen) – doctor's practice
+- **das Krankenhaus** (-häuser) – hospital
+- **die Krankenkasse** (-n) – health insurance fund
+- **die Versicherung** (-en) – insurance
+- **die Medizin** – medicine
+- **das Medikament** (-e) – medication
+- **die Tablette** (-n) – tablet
+- **die Salbe** (-n) – ointment
+- **der Notfall** (-fälle) – emergency
+- **der Krankenwagen** (–) – ambulance
+- **weh|tun** (irr.) – to hurt
+- **sich fühlen** – to feel
+- **sich aus|ruhen** – to rest
+- **schlafen** (irr.) – to sleep
+- **müde** – tired
+- **fit** – fit
+- **der Sport** – sport
+- **der Stress** – stress
+
+---
+
+## 11. Work & Professions
+
+- **die Arbeit** (-en) – work
+- **arbeiten** – to work
+- **der Beruf** (Berufe) – profession
+- **der Job** (-s) – job
+- **die Firma** (Firmen) – company
+- **das Büro** (Büros) – office
+- **der Arbeitsplatz** (-plätze) – workplace
+- **die Stelle** (-n) – position, job
+- **die Ausbildung** (-en) – vocational training
+- **das Praktikum** (Praktika) – internship
+- **der Lebenslauf** (-läufe) – CV
+- **die Bewerbung** (-en) – application
+- **sich bewerben** (irr.) – to apply
+- **verdienen** – to earn
+- **das Gehalt** (Gehälter) – salary
+- **der Urlaub** (-e) – holiday, leave
+- **die Pause** (-n) – break
+- **die Besprechung** (-en) – meeting
+- **das Gespräch** (-e) – conversation, talk
+- **der Termin** (-e) – appointment
+- **die Arbeitszeit** (-en) – working hours
+- **arbeitslos** – unemployed
+- **selbstständig** – self-employed
+- **die Rente** – pension
+- **der Rentner** (–) / **die Rentnerin** (-nen) – pensioner
+- **der Lehrer** (–) / **die Lehrerin** (-nen) – teacher
+- **der Arzt** / **die Ärztin** – doctor
+- **der Verkäufer** (–) / **die Verkäuferin** (-nen) – shop assistant
+- **der Kellner** / **die Kellnerin** – waiter / waitress
+- **der Koch** (Köche) / **die Köchin** (-nen) – cook
+- **der Bäcker** (–) – baker
+- **der Friseur** (-e) / **die Friseurin** (-nen) – hairdresser
+- **der Polizist** (-en) / **die Polizistin** (-nen) – police officer
+- **der Beamte** (-n) / **die Beamtin** (-nen) – official, civil servant
+- **der Ingenieur** (-e) – engineer
+- **der Techniker** (–) – technician
+- **der Mechaniker** (–) – mechanic
+- **der Elektriker** (–) – electrician
+- **der Programmierer** (–) – programmer
+- **der Krankenpfleger** (–) / **die Krankenschwester** (-n) – nurse
+- **der Journalist** (-en) – journalist
+- **der Musiker** (–) – musician
+- **der Künstler** (–) – artist
+- **der Sekretär** (-e) / **die Sekretärin** (-nen) – secretary
+- **der Fahrer** (–) – driver
+- **der Taxifahrer** (–) – taxi driver
+- **der Architekt** (-en) – architect
+- **der Anwalt** (Anwälte) – lawyer
+- **der Bauer** (-n) – farmer
+- **die Hausfrau** (-en) / **der Hausmann** (-männer) – housewife / househusband
+- **der Student** (-en) / **die Studentin** (-nen) – student (university)
+- **das Studium** (Studien) – (university) studies
+- **der Schüler** (–) / **die Schülerin** (-nen) – pupil
+
+---
+
+## 12. School, Course & Learning
+
+- **die Schule** (-n) – school
+- **der Kurs** (Kurse) – course
+- **der Deutschkurs** (-e) – German course
+- **der Unterricht** – lesson, class
+- **die Klasse** (-n) – class
+- **die Gruppe** (-n) – group
+- **das Klassenzimmer** (–) – classroom
+- **die Universität / die Uni** (-en) – university
+- **der Kindergarten** (-gärten) – kindergarten
+- **die Sprachschule** (-n) – language school
+- **die Hausaufgabe** (-n) – homework
+- **die Prüfung** (-en) – exam
+- **der Test** (-s) – test
+- **die Note** (-n) – mark, grade
+- **das Zeugnis** (-se) – certificate, report
+- **das Buch** (Bücher) – book
+- **das Wörterbuch** (-bücher) – dictionary
+- **das Heft** (-e) – exercise book
+- **das Papier** (-e) – paper
+- **drucken** – to print
+- **der Drucker** (–) – printer
+- **an|klicken** – to click on
+- **das Blatt** (Blätter) – sheet
+- **die Seite** (-n) – page
+- **der Kugelschreiber / der Kuli** (–/-s) – ballpoint pen
+- **der Stift** (-e) – pen
+- **der Bleistift** (-e) – pencil
+- **der Radiergummi** (-s) – eraser
+- **die Tafel** (-n) – blackboard
+- **die Übung** (-en) – exercise
+- **die Aufgabe** (-n) – task
+- **die Lösung** (-en) – solution, answer
+- **das Ergebnis** (-se) – result
+- **die Aussage** (-n) – statement
+- **der Bogen** (Bögen) – sheet (*der Antwortbogen* = answer sheet)
+- **der Text** (-e) – text
+- **der Teil** (-e) – part
+- **das Wort** (Wörter) – word
+- **der Satz** (Sätze) – sentence
+- **die Frage** (Fragen) – question
+- **die Antwort** (Antworten) – answer
+- **das Beispiel** (-e) – example
+- **zum Beispiel (z. B.)** – for example
+- **die Grammatik** – grammar
+- **die Regel** (-n) – rule
+- **der Fehler** (–) – mistake
+- **das Thema** (Themen) – topic
+- **die Pause** (-n) – break
+- **lernen** – to learn
+- **studieren** – to study (at university)
+- **lesen** (irr.) – to read
+- **schreiben** (irr.) – to write
+- **sprechen** (irr.) – to speak
+- **hören** – to hear, listen
+- **zu|hören** – to listen
+- **verstehen** (irr.) – to understand
+- **wiederholen** – to repeat
+- **erklären** – to explain
+- **bedeuten** – to mean
+- **fragen** – to ask
+- **antworten** – to answer
+- **üben** – to practise
+- **bestehen** (irr.) – to pass (an exam)
+- **an|kreuzen** – to tick, mark with a cross
+- **unterstreichen** – to underline
+- **ergänzen** – to complete
+- **aus|füllen** – to fill in
+- **notieren / auf|schreiben** – to note down
+- **markieren** – to highlight
+- **vor|lesen** (irr.) – to read aloud
+- **buchstabieren** – to spell
+- **richtig** – correct
+- **falsch** – wrong
+- **einfach / leicht** – easy
+- **schwierig / schwer** – difficult
+
+---
+
+## 13. Travel & Transport
+
+- **die Reise** (-n) – journey, trip
+- **reisen** – to travel
+- **die Fahrt** (-en) – ride, drive
+- **fahren** (irr.) – to go (by vehicle), drive
+- **fliegen** (irr.) – to fly
+- **gehen** (irr.) – to go, walk
+- **an|kommen** (irr.) – to arrive
+- **ab|fahren** (irr.) – to depart
+- **ab|fliegen** (irr.) – to take off
+- **der Abflug** (-flüge) – departure (of a flight)
+- **ein|steigen** (irr.) – to get on/in
+- **aus|steigen** (irr.) – to get off/out
+- **um|steigen** (irr.) – to change (trains)
+- **warten** – to wait
+- **buchen** – to book
+- **reservieren** – to reserve
+- **packen** – to pack
+- **besuchen** – to visit
+- **besichtigen** – to visit, view (sights)
+- **der Zug** (Züge) – train
+- **die Bahn** (-en) – railway
+- **der Bahnhof** (-höfe) – station
+- **der Hauptbahnhof** (-höfe) – main station
+- **das Gleis** (-e) – track, platform
+- **der Bahnsteig** (-e) – platform
+- **die Fahrkarte** (-n) – ticket
+- **der Schalter** (–) – counter, ticket window
+- **gültig** – valid
+- **das Ticket** (-s) – ticket
+- **der Fahrplan** (-pläne) – timetable
+- **der Plan** (Pläne) – plan; map
+- **die Ansage** (-n) – announcement
+- **die Durchsage** (-n) – announcement (over a speaker)
+- **die Verspätung** (-en) – delay
+- **der Anschluss** (Anschlüsse) – connection
+- **halten** (irr.) – to stop (of a train or bus)
+- **die Ankunft** (Ankünfte) – arrival
+- **die Abfahrt** (-en) – departure
+- **das Flugzeug** (-e) – aeroplane
+- **der Flughafen** (-häfen) – airport
+- **der Flug** (Flüge) – flight
+- **das Auto** (Autos) – car
+- **der Wagen** (–) – car
+- **der Bus** (Busse) – bus
+- **die Haltestelle** (-n) – stop
+- **die U-Bahn** (-en) – underground
+- **die S-Bahn** (-en) – suburban train
+- **die Straßenbahn** (-en) – tram
+- **das Taxi** (-s) – taxi
+- **das Fahrrad / das Rad** (-räder) – bicycle
+- **das Motorrad** (-räder) – motorbike
+- **das Schiff** (-e) – ship
+- **zu Fuß** – on foot
+- **der Führerschein** (-e) – driving licence
+- **die Tankstelle** (-n) – petrol station
+- **die Autobahn** (-en) – motorway
+- **der Lkw** (-s) – lorry, truck
+- **das Benzin** – petrol
+- **tanken** – to fill up
+- **der Parkplatz** (-plätze) – car park
+- **parken** – to park
+- **der Koffer** (–) – suitcase
+- **das Gepäck** – luggage
+- **der Zoll** – customs
+- **der Urlaub** (-e) – holiday
+- **die Ferien** (pl.) – holidays (school)
+- **das Hotel** (-s) – hotel
+- **die Jugendherberge** (-n) – youth hostel
+- **übernachten** – to stay overnight
+- **die Halbpension** – half board
+- **die Pension** (-en) – guesthouse
+- **die Rezeption** (-en) – reception
+- **das Einzelzimmer / das Doppelzimmer** (–) – single / double room
+- **die Buchung** (-en) – booking
+- **der Tourist** (-en) – tourist
+- **die Sehenswürdigkeit** (-en) – sight, tourist attraction
+- **die Führung** (-en) – guided tour
+- **der Reiseführer** (–) – guidebook; tour guide
+- **das Reisebüro** (-s) – travel agency
+- **der Prospekt** (-e) – brochure
+- **die Auskunft** (Auskünfte) – information
+- **der Blick** (-e) – view
+- **die Information** (-en) – information
+- **die Karte** (-n) – map, ticket, card
+- **der Stadtplan** (-pläne) – city map
+- **der Weg** (-e) – way
+- **die Richtung** (-en) – direction
+- **geradeaus** – straight ahead
+- **links** – left
+- **rechts** – right
+- **die Ecke** (-n) – corner
+- **die Kreuzung** (-en) – crossroads
+- **die Ampel** (-n) – traffic light
+- **die Brücke** (-n) – bridge
+- **weit** – far
+- **nah** – near
+- **hin und zurück** – return (ticket)
+- **einfach** – single (ticket)
+
+---
+
+## 14. City & Places
+
+- **die Stadt** (Städte) – city
+- **das Dorf** (Dörfer) – village
+- **das Zentrum** (Zentren) – centre
+- **die Innenstadt** (-städte) – city centre
+- **die Straße** (-n) – street
+- **der Platz** (Plätze) – square, place, seat
+- **die Post** – post office
+- **der Brief** (-e) – letter
+- **die Briefmarke** (-n) – stamp
+- **der Absender** (–) – sender
+- **der Empfänger** (–) – recipient
+- **das Fax** (-e) – fax
+- **die Bank** (-en) – bank
+- **das Rathaus** (-häuser) – town hall
+- **das Amt** (Ämter) – public office
+- **die Kirche** (-n) – church
+- **das Museum** (Museen) – museum
+- **der Eintritt** – entry, admission
+- **die Halle** (-n) – hall
+- **das Theater** (–) – theatre
+- **das Kino** (-s) – cinema
+- **die Bibliothek** (-en) – library
+- **das Schwimmbad** (-bäder) – swimming pool
+- **der Park** (-s) – park
+- **der Zoo** (-s) – zoo
+- **das Stadion** (Stadien) – stadium
+- **der Sportplatz** (-plätze) – sports ground
+- **die Polizei** – police
+- **die Feuerwehr** – fire brigade
+- **das Gebäude** (–) – building
+- **der Eingang** (-gänge) – entrance
+- **der Ausgang** (-gänge) – exit
+- **der Notausgang** (-gänge) – emergency exit
+- **die Nummer** (-n) – number
+- **das Schild** (-er) – sign
+- **Achtung** – attention!, watch out!
+- **die Vorsicht** – caution
+- **die Mitte** – middle, centre
+- **der Automat** (-en) – vending machine
+
+---
+
+## 15. Free Time, Hobbies & Sport
+
+- **die Freizeit** – free time
+- **das Hobby** (Hobbys) – hobby
+- **der Sport** – sport
+- **Sport treiben / machen** – to do sport
+- **spielen** – to play
+- **schwimmen** (irr.) – to swim
+- **laufen** (irr.) – to run, walk
+- **joggen** – to jog
+- **wandern** – to hike
+- **tanzen** – to dance
+- **singen** (irr.) – to sing
+- **malen** – to paint
+- **zeichnen** – to draw
+- **fotografieren** – to take photos
+- **sammeln** – to collect
+- **fern|sehen** (irr.) – to watch TV
+- **treffen** (irr.) – to meet
+- **feiern** – to celebrate
+- **ein|laden** (irr.) – to invite
+- **spazieren gehen** – to go for a walk
+- **Rad fahren** (irr.) – to cycle
+- **Ski fahren** (irr.) – to ski
+- **reiten** (irr.) – to ride (a horse)
+- **der Fußball** – football
+- **das Tennis** – tennis
+- **der Basketball** – basketball
+- **das Volleyball** – volleyball
+- **das Fitnessstudio** (-s) – gym
+- **die Mannschaft** (-en) – team
+- **das Spiel** (-e) – game, match
+- **der Verein** (-e) – club
+- **die Musik** – music
+- **das Lied** (-er) – song
+- **Lieblings-** – favourite (prefix: *das Lieblingslied*)
+- **das Konzert** (-e) – concert
+- **die Band** (-s) – band
+- **die CD** (-s) – CD
+- **das Instrument** (-e) – instrument
+- **das Klavier** (-e) – piano
+- **die Gitarre** (-n) – guitar
+- **der Film** (-e) – film
+- **das Fernsehen** – television
+- **das Radio** (-s) – radio
+- **die Zeitung** (-en) – newspaper
+- **die Zeitschrift** (-en) – magazine
+- **das Internet** – internet
+- **die Party** (-s) – party
+- **die Disco** (-s) – disco, club
+- **das Fest** (-e) – celebration, festival
+- **der Geburtstag** (-e) – birthday
+- **die Einladung** (-en) – invitation
+- **das Geschenk** (-e) – present
+- **der Ausflug** (-flüge) – excursion
+- **die Kamera** (-s) – camera
+- **das Foto** (Fotos) – photo
+- **das Buch** (Bücher) – book
+- **das Spiel** (-e) – game
+- **die Karte** (-n) – card
+
+---
+
+## 16. Weather & Nature
+
+- **das Wetter** – weather
+- **der Wetterbericht** (-e) – weather report
+- **die Sonne** – sun
+- **sonnig** – sunny
+- **scheinen** (irr.) – to shine
+- **die Wolke** (-n) – cloud
+- **bewölkt / wolkig** – cloudy
+- **der Regen** – rain
+- **regnen** – to rain
+- **der Regenschirm** (-e) – umbrella
+- **der Schnee** – snow
+- **schneien** – to snow
+- **der Wind** (-e) – wind
+- **windig** – windy
+- **der Nebel** – fog
+- **neblig** – foggy
+- **das Gewitter** (–) – thunderstorm
+- **der Blitz** (-e) – lightning
+- **der Donner** – thunder
+- **die Temperatur** (-en) – temperature
+- **der Grad** – degree
+- **warm** – warm
+- **heiß** – hot
+- **kalt** – cold
+- **kühl** – cool
+- **trocken** – dry
+- **nass** – wet
+- **die Natur** – nature
+- **der Baum** (Bäume) – tree
+- **die Blume** (Blumen) – flower
+- **das Gras** – grass
+- **der Wald** (Wälder) – forest
+- **der Berg** (Berge) – mountain
+- **der See** (Seen) – lake
+- **das Meer** (-e) / **die See** – sea
+- **der Fluss** (Flüsse) – river
+- **der Strand** (Strände) – beach
+- **die Insel** (-n) – island
+- **der Himmel** – sky
+- **der Mond** – moon
+- **der Stern** (-e) – star
+- **die Erde** – earth
+- **die Welt** (-en) – world
+- **die Luft** – air
+- **das Feuer** (–) – fire
+- **das Tier** (Tiere) – animal
+- **der Hund** (Hunde) – dog
+- **die Katze** (Katzen) – cat
+- **der Vogel** (Vögel) – bird
+- **das Pferd** (-e) – horse
+- **die Kuh** (Kühe) – cow
+- **das Schwein** (-e) – pig
+- **die Maus** (Mäuse) – mouse
+
+---
+
+## 17. Colours
+
+- **die Farbe** (Farben) – colour
+- **rot** – red
+- **blau** – blue
+- **gelb** – yellow
+- **grün** – green
+- **schwarz** – black
+- **weiß** – white
+- **grau** – grey
+- **braun** – brown
+- **orange** – orange
+- **rosa** – pink
+- **lila / violett** – purple
+- **bunt** – colourful
+- **hell** – light
+- **dunkel** – dark
+
+---
+
+## 18. Common Adjectives
+
+- **groß** – big
+- **klein** – small
+- **alt** – old
+- **neu** – new
+- **jung** – young
+- **gut** – good
+- **schlecht** – bad
+- **besser** – better
+- **schön** – beautiful
+- **hässlich** – ugly
+- **wunderbar** – wonderful
+- **lang** – long
+- **kurz** – short
+- **hoch** – high
+- **niedrig** – low
+- **breit** – wide
+- **schmal / eng** – narrow
+- **dick** – thick, fat
+- **dünn** – thin
+- **schwer** – heavy, difficult
+- **leicht** – light, easy
+- **teuer** – expensive
+- **billig / günstig** – cheap
+- **schnell** – fast
+- **langsam** – slow
+- **laut** – loud
+- **leise** – quiet
+- **sauber** – clean
+- **schmutzig / dreckig** – dirty
+- **voll** – full
+- **leer** – empty
+- **offen** – open
+- **geschlossen** – closed
+- **richtig** – right
+- **falsch** – wrong
+- **wichtig** – important
+- **normal** – normal
+- **eilig** – urgent (*es eilig haben* = to be in a hurry)
+- **automatisch** – automatic
+- **kulturell** – cultural
+- **interessant** – interesting
+- **langweilig** – boring
+- **lustig** – funny
+- **traurig** – sad
+- **glücklich / froh** – happy
+- **zufrieden** – satisfied
+- **müde** – tired
+- **wach** – awake
+- **freundlich** – friendly
+- **nett** – nice
+- **sympathisch** – likeable
+- **höflich** – polite
+- **ruhig** – calm
+- **nervös** – nervous
+- **böse / ärgerlich** – angry
+- **allein** – alone
+- **zusammen** – together
+- **gleich** – same
+- **anders** – different
+- **verschieden** – various
+- **bekannt** – known, famous
+- **fremd** – strange, foreign
+- **modern** – modern
+- **praktisch** – practical
+- **bequem** – comfortable
+- **gemütlich** – cosy
+- **sicher** – safe, certain
+- **gefährlich** – dangerous
+- **möglich** – possible
+- **unmöglich** – impossible
+- **verboten** – forbidden
+- **fertig** – ready, finished
+- **kaputt** – broken
+- **frei** – free, vacant
+- **besetzt** – occupied
+- **arm** – poor
+- **reich** – rich
+- **stark** – strong
+- **schwach** – weak
+- **hart** – hard
+- **weich** – soft
+- **tief** – deep
+- **best-** – best (predicative: *am besten*; noun: *das Beste*)
+- **letzt-** – last
+- **nächst-** – next
+- **erst-** – first
+
+---
+
+## 19. Common Verbs
+
+**Modal & auxiliary verbs**
+- **sein** (irr.) – to be
+- **an sein** – to be on (light, TV)
+- **aus sein** – to be off; to be over
+- **auf sein** – to be open
+- **zu sein** – to be closed
+- **weg sein** – to be gone, be away
+- **haben** (irr.) – to have
+- **werden** (irr.) – to become
+- **können** – can, to be able to
+- **müssen** – must, to have to
+- **dürfen** – may, to be allowed to
+- **wollen** – to want
+- **sollen** – should, to be supposed to
+- **mögen** – to like
+- **möchten** – would like
+
+**Everyday verbs**
+- **machen** – to do, make
+- **tun** (irr.) – to do
+- **gehen** (irr.) – to go
+- **kommen** (irr.) – to come
+- **bleiben** (irr.) – to stay
+- **stehen** (irr.) – to stand
+- **sitzen** (irr.) – to sit
+- **liegen** (irr.) – to lie
+- **legen** – to lay, put down
+- **stellen** – to put, place
+- **setzen / sich setzen** – to sit down
+- **geben** (irr.) – to give
+- **nehmen** (irr.) – to take
+- **bringen** (irr.) – to bring
+- **ab|holen** – to pick up, collect
+- **ab|geben** (irr.) – to hand in, hand over
+- **an|bieten** (irr.) – to offer
+- **empfehlen** (irr.) – to recommend
+- **holen** – to fetch
+- **mit|bringen** (irr.) – to bring along
+- **mit|nehmen** (irr.) – to take along
+- **mit|kommen** (irr.) – to come along
+- **mit|machen** – to join in, take part
+- **bekommen** (irr.) – to receive
+- **kriegen** – to get (colloquial)
+- **schicken** – to send
+- **zeigen** – to show
+- **finden** (irr.) – to find
+- **suchen** – to look for
+- **sehen** (irr.) – to see
+- **an|sehen / an|schauen** – to look at
+- **aus|sehen** (irr.) – to look, appear
+- **hören** – to hear
+- **sprechen** (irr.) – to speak
+- **reden** – to talk
+- **sagen** – to say
+- **erzählen** – to tell
+- **bitten** (irr.) – to ask, request
+- **fragen** – to ask
+- **antworten** – to answer
+- **rufen** (irr.) – to call
+- **an|rufen** (irr.) – to phone
+- **telefonieren** – to telephone
+- **schreiben** (irr.) – to write
+- **lesen** (irr.) – to read
+- **wissen** (irr.) – to know (a fact)
+- **kennen** (irr.) – to know (be familiar with)
+- **denken** (irr.) – to think
+- **glauben** – to believe
+- **meinen** – to mean, think
+- **hoffen** – to hope
+- **wünschen** – to wish
+- **brauchen** – to need
+- **helfen** (irr.) – to help
+- **erlauben** – to allow
+- **fehlen** – to be missing, be absent
+- **sich kümmern (um)** – to take care of
+- **danken** – to thank
+- **gratulieren** – to congratulate
+- **auf|stehen** (irr.) – to get up
+- **auf|wachen** – to wake up
+- **sich waschen** (irr.) – to wash oneself
+- **sich duschen** – to shower
+- **sich an|ziehen** (irr.) – to get dressed
+- **sich aus|ziehen** (irr.) – to get undressed
+- **sich kämmen** – to comb one's hair
+- **an|fangen / beginnen** (irr.) – to begin
+- **auf|hören** – to stop
+- **enden** – to end
+- **dauern** – to last
+- **auf|machen / öffnen** – to open
+- **zu|machen / schließen** (irr.) – to close
+- **an|machen / ein|schalten** – to switch on
+- **aus|machen / aus|schalten** – to switch off
+- **funktionieren** – to work, function
+- **reparieren** – to repair
+- **benutzen** – to use
+- **drücken** – to press, push
+- **riechen** (irr.) – to smell
+- **versuchen** – to try
+- **ändern** – to change
+- **wechseln** – to change, swap
+- **vergessen** (irr.) – to forget
+- **sich erinnern** – to remember
+- **sich vor|stellen** – to introduce oneself
+- **verlieren** (irr.) – to lose
+- **gewinnen** (irr.) – to win
+- **gefallen** (irr.) – to please, to like
+- **lieben** – to love
+- **lachen** – to laugh
+- **weinen** – to cry
+- **rauchen** – to smoke
+- **passieren** – to happen
+- **stattfinden** (irr.) – to take place
+- **gehören** – to belong to
+- **sich freuen** – to be pleased
+- **sich interessieren für** – to be interested in
+- **aus|gehen** (irr.) – to go out
+- **weg|gehen** (irr.) – to go away
+- **zurück|kommen** (irr.) – to come back
+- **stören** – to disturb
+
+---
+
+## 20. Question Words, Pronouns & Function Words
+
+**Question words**
+- **wer** – who
+- **wen** – whom
+- **wem** – to whom
+- **was** – what
+- **wo** – where
+- **wohin** – where to
+- **woher** – where from
+- **wann** – when
+- **wie** – how
+- **warum / wieso** – why
+- **wie viel / wie viele** – how much / how many
+- **wie lange** – how long
+- **wie oft** – how often
+- **wie alt** – how old
+- **welch-** – which (*welcher, welche, welches ...*)
+- **was für ein** – what kind of
+
+**Personal pronouns**
+- **ich** – I
+- **du** – you (informal sg.)
+- **er** – he
+- **sie** – she
+- **es** – it
+- **wir** – we
+- **ihr** – you (informal pl.)
+- **sie** – they
+- **Sie** – you (formal)
+- **mich / mir** – me
+- **dich / dir** – you
+- **ihn / ihm** – him
+- **ihr** – her
+- **uns** – us
+- **euch** – you
+- **sie / ihnen** – them
+- **Ihnen** – you (formal)
+- **man** – one, you (impersonal)
+
+**Possessives**
+- **mein** – my
+- **dein** – your
+- **sein** – his
+- **ihr** – her
+- **unser** – our
+- **euer** – your
+- **ihr** – their
+- **Ihr** – your (formal)
+
+**Articles & determiners**
+- **der / die / das** – the
+- **ein / eine** – a, an
+- **kein / keine** – no, not a
+- **dies-** – this (*dieser, diese, dieses ...*)
+- **jed-** – every (*jeder, jede, jedes ...*)
+- **alle** – all
+- **viele** – many
+- **einige** – some
+- **beide** – both
+- **ander-** – other
+- **jemand** – somebody
+- **niemand** – nobody
+- **etwas** – something
+- **nichts** – nothing
+
+**Prepositions**
+- **in** – in
+- **an** – at, on
+- **auf** – on
+- **unter** – under
+- **über** – over, about
+- **neben** – next to
+- **zwischen** – between
+- **vor** – in front of, before
+- **hinter** – behind
+- **bei** – at, near
+- **mit** – with
+- **ohne** – without
+- **nach** – after, to
+- **von** – from, of
+- **zu** – to
+- **aus** – from, out of
+- **seit** – since
+- **für** – for
+- **gegen** – against
+- **um** – around, at
+- **durch** – through
+- **bis** – until
+- **ab** – from
+- **gegenüber** – opposite
+
+**Conjunctions**
+- **und** – and
+- **oder** – or
+- **aber** – but
+- **denn** – because
+- **weil** – because
+- **dass** – that
+- **wenn** – if, when
+- **sondern** – but rather
+
+**Adverbs & particles**
+- **sehr** – very
+- **auch** – also
+- **nur** – only
+- **noch** – still
+- **schon** – already
+- **wieder** – again
+- **gern / lieber / am liebsten** – gladly / rather / most of all
+- **vielleicht** – maybe
+- **natürlich** – of course
+- **leider** – unfortunately
+- **hoffentlich** – hopefully
+- **wirklich** – really
+- **eigentlich** – actually
+- **hier** – here
+- **da / dort** – there
+- **oben** – above
+- **unten** – below
+- **daneben** – next to it
+- **weiter** – further, onward
+- **vorne** – in front
+- **hinten** – at the back
+- **drinnen** – inside
+- **draußen** – outside
+- **überall** – everywhere
+- **nirgends** – nowhere
+- **zusammen** – together
+- **ziemlich** – quite
+- **zu** – too
+- **besonders** – especially
+- **so** – so, like this
+- **nicht** – not
+- **nie** – never
+
+---
+
+## 21. Useful Exam Phrases
+
+**Introducing yourself**
+- **Ich heiße ... / Mein Name ist ...** – My name is ...
+- **Ich komme aus ...** – I come from ...
+- **Ich wohne in ...** – I live in ...
+- **Ich bin ... Jahre alt.** – I am ... years old.
+- **Ich bin von Beruf ...** – I work as a ...
+- **Ich spreche ein bisschen Deutsch.** – I speak a little German.
+- **Ich lerne seit ... Monaten Deutsch.** – I've been learning German for ... months.
+
+**In the classroom / exam**
+- **Wie bitte?** – Pardon?
+- **Ich verstehe nicht.** – I don't understand.
+- **Können Sie das bitte wiederholen?** – Could you repeat that, please?
+- **Können Sie bitte langsamer sprechen?** – Could you speak more slowly, please?
+- **Was bedeutet ...?** – What does ... mean?
+- **Wie sagt man ... auf Deutsch?** – How do you say ... in German?
+- **Wie schreibt man das?** – How do you spell that?
+- **Können Sie mir bitte helfen?** – Can you help me, please?
+- **Ich habe eine Frage.** – I have a question.
+
+**Everyday situations**
+- **Wie spät ist es? / Wie viel Uhr ist es?** – What time is it?
+- **Was kostet das? / Wie viel kostet das?** – How much is that?
+- **Ich hätte gern ...** – I would like ...
+- **Ich möchte ...** – I would like ...
+- **Die Rechnung, bitte.** – The bill, please.
+- **Wo ist ...?** – Where is ...?
+- **Wie komme ich zum Bahnhof?** – How do I get to the station?
+- **Ich brauche Hilfe.** – I need help.
+- **Ich suche ...** – I'm looking for ...
+- **Haben Sie ...?** – Do you have ...?
+- **Darf ich ...?** – May I ...?
+- **Können Sie mir sagen, wo ...?** – Can you tell me where ...?
+- **Ich bin einverstanden.** – I agree.
+- **Das ist eine gute Idee.** – That's a good idea.
+- **Ich habe leider keine Zeit.** – Unfortunately I have no time.
+- **Wollen wir uns treffen?** – Shall we meet?
+- **Wann passt es dir/Ihnen?** – When suits you?
+
+---
+
+*Tip: the official Goethe-Institut wordlist for Start Deutsch 1 contains roughly 650 items and is available as a free PDF on goethe.de — this list covers those topics and adds some extra useful items.*
