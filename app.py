@@ -96,6 +96,9 @@ class MenuFrame(ttk.Frame):
             score = latest_scores.get(group.number)
             if score:
                 entry += f"  —  Last score: {score['correct']}/{score['total']}"
+                timestamp = score.get("timestamp")
+                if timestamp:
+                    entry += f" ({scores_store.format_elapsed(timestamp)})"
             self.listbox.insert("end", entry)
 
         self.listbox.selection_set(selected_index)
