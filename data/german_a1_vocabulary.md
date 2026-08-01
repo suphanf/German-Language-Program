@@ -1424,7 +1424,7 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **weinen** – to cry
 - **rauchen** – to smoke
 - **passieren** – to happen
-- **stattfinden** (irr.) – to take place
+- **statt|finden** (irr.) – to take place
 - **gehören** (+ Dat) – to belong to
 - **sich freuen** – to be glad, be happy
 - **sich freuen auf** (+ Akk) – to look forward to
