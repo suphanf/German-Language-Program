@@ -1384,12 +1384,15 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **sich an|ziehen** (irr.) – to get dressed
 - **sich aus|ziehen** (irr.) – to get undressed
 - **sich kämmen** – to comb one's hair
-- **an|fangen / beginnen** (irr.) – to begin
+- **an|fangen** (irr.) – to begin (separable verb)
+- **beginnen** (irr.) – to begin (not separable)
 - **auf|hören** – to stop
 - **enden** – to end
 - **dauern** – to last
-- **auf|machen / öffnen** – to open
-- **zu|machen / schließen** (irr.) – to close
+- **auf|machen** – to open (separable verb)
+- **öffnen** – to open (not separable)
+- **zu|machen** – to close (separable verb)
+- **schließen** (irr.) – to close (not separable)
 - **an|machen / ein|schalten** – to switch on
 - **aus|machen / aus|schalten** – to switch off
 - **funktionieren** – to work, function
