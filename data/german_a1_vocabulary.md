@@ -1245,7 +1245,7 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **falsch** – wrong
 - **wichtig** – important
 - **normal** – normal
-- **eilig** – urgent (*es eilig haben* = to be in a hurry)
+- **eilig** – urgent
 - **automatisch** – automatic
 - **kulturell** – cultural
 - **interessant** – interesting
