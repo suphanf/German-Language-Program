@@ -1230,7 +1230,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **schwer** – heavy, difficult
 - **leicht** – light, easy
 - **teuer** – expensive
-- **billig / günstig** – cheap
+- **billig** – cheap
+- **günstig** – reasonably priced
 - **schnell** – fast
 - **langsam** – slow
 - **laut** – loud
