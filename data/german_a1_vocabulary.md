@@ -118,7 +118,7 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **heißen** (irr.) – to be called
 - **wohnen** – to live, reside
 - **leben** – to live
-- **kommen aus** – to come from
+- **kommen aus** (+ Dat) – to come from
 - **buchstabieren** – to spell
 - **das Alphabet** – alphabet
 - **der Buchstabe** (-n) – letter (of the alphabet)
@@ -607,7 +607,7 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **kochen** – to cook
 - **backen** – to bake
 - **grillen** – to barbecue
-- **schmecken** – to taste (good)
+- **schmecken** (+ Dat) – to taste good (to someone)
 - **probieren** – to try, taste
 - **bestellen** – to order
 - **bezahlen** – to pay
@@ -709,8 +709,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **an|ziehen** (irr.) – to put on
 - **aus|ziehen** (irr.) – to take off
 - **tragen** (irr.) – to wear, carry
-- **passen** – to fit
-- **stehen** (irr.) – to suit (jemandem stehen)
+- **passen** (+ Dat) – to fit (someone)
+- **stehen** (+ Dat) – to suit (someone)
 
 ---
 
@@ -769,7 +769,7 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **die Salbe** (-n) – ointment
 - **der Notfall** (-fälle) – emergency
 - **der Krankenwagen** (–) – ambulance
-- **weh|tun** (irr.) – to hurt
+- **weh|tun** (+ Dat) – to hurt (someone)
 - **sich fühlen** – to feel
 - **sich aus|ruhen** – to rest
 - **schlafen** (irr.) – to sleep
@@ -794,7 +794,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **das Praktikum** (Praktika) – internship
 - **der Lebenslauf** (-läufe) – CV
 - **die Bewerbung** (-en) – application
-- **sich bewerben** (irr.) – to apply
+- **sich bewerben um** (+ Akk) – to apply for (a job)
+- **sich bewerben bei** (+ Dat) – to apply to (a company)
 - **verdienen** – to earn
 - **das Gehalt** (Gehälter) – salary
 - **der Urlaub** (-e) – holiday, leave
@@ -900,7 +901,7 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **erklären** – to explain
 - **bedeuten** – to mean
 - **fragen** – to ask
-- **antworten** – to answer
+- **antworten** (+ Dat) – to answer
 - **üben** – to practise
 - **bestehen** (irr.) – to pass (an exam)
 - **an|kreuzen** – to tick, mark with a cross
@@ -933,7 +934,7 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **ein|steigen** (irr.) – to get on/in
 - **aus|steigen** (irr.) – to get off/out
 - **um|steigen** (irr.) – to change (trains)
-- **warten** – to wait
+- **warten auf** (+ Akk) – to wait for
 - **buchen** – to book
 - **reservieren** – to reserve
 - **packen** – to pack
@@ -1085,7 +1086,7 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **fern|sehen** (irr.) – to watch TV
 - **treffen** (irr.) – to meet
 - **feiern** – to celebrate
-- **ein|laden** (irr.) – to invite
+- **ein|laden zu** (+ Dat) – to invite to
 - **spazieren gehen** – to go for a walk
 - **Rad fahren** (irr.) – to cycle
 - **Ski fahren** (irr.) – to ski
@@ -1352,12 +1353,14 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **aus|sehen** (irr.) – to look, appear
 - **hören** – to hear
 - **sprechen** (irr.) – to speak
+- **sprechen mit** (+ Dat) – to speak to
+- **sprechen über** (+ Akk) – to speak about
 - **reden** – to talk
 - **sagen** – to say
 - **erzählen** – to tell
 - **bitten** (irr.) – to ask, request
 - **fragen** – to ask
-- **antworten** – to answer
+- **antworten** (+ Dat) – to answer
 - **rufen** (irr.) – to call
 - **an|rufen** (irr.) – to phone
 - **telefonieren** – to telephone
@@ -1365,18 +1368,18 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **lesen** (irr.) – to read
 - **wissen** (irr.) – to know (a fact)
 - **kennen** (irr.) – to know (be familiar with)
-- **denken** (irr.) – to think
+- **denken an** (+ Akk) – to think of, think about
 - **glauben** – to believe
 - **meinen** – to mean, think
 - **hoffen** – to hope
 - **wünschen** – to wish
 - **brauchen** – to need
-- **helfen** (irr.) – to help
+- **helfen** (+ Dat) – to help
 - **erlauben** – to allow
-- **fehlen** – to be missing, be absent
-- **sich kümmern (um)** – to take care of
-- **danken** – to thank
-- **gratulieren** – to congratulate
+- **fehlen** (+ Dat) – to be missing; to be absent
+- **sich kümmern um** (+ Akk) – to take care of
+- **danken für** (+ Akk) – to thank for
+- **gratulieren zu** (+ Dat) – to congratulate on
 - **auf|stehen** (irr.) – to get up
 - **auf|wachen** – to wake up
 - **sich waschen** (irr.) – to wash oneself
@@ -1404,20 +1407,21 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **ändern** – to change
 - **wechseln** – to change, swap
 - **vergessen** (irr.) – to forget
-- **sich erinnern** – to remember
+- **sich erinnern an** (+ Akk) – to remember
 - **sich vor|stellen** – to introduce oneself
 - **verlieren** (irr.) – to lose
 - **gewinnen** (irr.) – to win
-- **gefallen** (irr.) – to please, to like
+- **gefallen** (+ Dat) – to please, to appeal to
 - **lieben** – to love
 - **lachen** – to laugh
 - **weinen** – to cry
 - **rauchen** – to smoke
 - **passieren** – to happen
 - **stattfinden** (irr.) – to take place
-- **gehören** – to belong to
-- **sich freuen** – to be pleased
-- **sich interessieren für** – to be interested in
+- **gehören** (+ Dat) – to belong to
+- **sich freuen auf** (+ Akk) – to look forward to
+- **sich freuen über** (+ Akk) – to be pleased about
+- **sich interessieren für** (+ Akk) – to be interested in
 - **aus|gehen** (irr.) – to go out
 - **weg|gehen** (irr.) – to go away
 - **zurück|kommen** (irr.) – to come back
@@ -1492,30 +1496,30 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **nichts** – nothing
 
 **Prepositions**
-- **in** – in
-- **an** – at, on
-- **auf** – on
-- **unter** – under
-- **über** – over, about
-- **neben** – next to
-- **zwischen** – between
-- **vor** – in front of, before
-- **hinter** – behind
-- **bei** – at, near
-- **mit** – with
-- **ohne** – without
-- **nach** – after, to
-- **von** – from, of
-- **zu** – to
-- **aus** – from, out of
-- **seit** – since
-- **für** – for
-- **gegen** – against
-- **um** – around, at
-- **durch** – through
-- **bis** – until
-- **ab** – from
-- **gegenüber** – opposite
+- **in** (+ Akk/Dat) – in
+- **an** (+ Akk/Dat) – at, on
+- **auf** (+ Akk/Dat) – on
+- **unter** (+ Akk/Dat) – under
+- **über** (+ Akk/Dat) – over, about
+- **neben** (+ Akk/Dat) – next to
+- **zwischen** (+ Akk/Dat) – between
+- **vor** (+ Akk/Dat) – in front of, before
+- **hinter** (+ Akk/Dat) – behind
+- **bei** (+ Dat) – at, near
+- **mit** (+ Dat) – with
+- **ohne** (+ Akk) – without
+- **nach** (+ Dat) – after, to
+- **von** (+ Dat) – from, of
+- **zu** (+ Dat) – to
+- **aus** (+ Dat) – from, out of
+- **seit** (+ Dat) – since
+- **für** (+ Akk) – for
+- **gegen** (+ Akk) – against
+- **um** (+ Akk) – around, at
+- **durch** (+ Akk) – through
+- **bis** (+ Akk) – until
+- **ab** (+ Dat) – from
+- **gegenüber** (+ Dat) – opposite
 
 **Conjunctions**
 - **und** – and
