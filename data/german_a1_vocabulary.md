@@ -179,7 +179,7 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **der Liter** – litre
 - **der Meter** – metre
 - **der Kilometer** – kilometre
-- **das Grad** – degree
+- **der Grad** – degree
 - **plus / minus** – plus / minus
 - **mal** – times
 - **geteilt durch** – divided by
@@ -1097,7 +1097,7 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **der Fußball** – football
 - **das Tennis** – tennis
 - **der Basketball** – basketball
-- **das Volleyball** – volleyball
+- **der Volleyball** – volleyball
 - **das Fitnessstudio** (-s) – gym
 - **die Mannschaft** (-en) – team
 - **das Spiel** (-e) – game, match
