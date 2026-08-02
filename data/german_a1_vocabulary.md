@@ -1332,7 +1332,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **liegen** (irr.) – to lie
 - **legen** – to lay, put down
 - **stellen** – to put, place
-- **setzen / sich setzen** – to sit down
+- **setzen** – to put, place (someone in a seat)
+- **sich setzen** – to sit down
 - **geben** (irr.) – to give
 - **nehmen** (irr.) – to take
 - **bringen** (irr.) – to bring
