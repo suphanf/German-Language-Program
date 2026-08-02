@@ -1104,7 +1104,7 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **der Verein** (-e) – club
 - **die Musik** – music
 - **das Lied** (-er) – song
-- **Lieblings-** – favourite (prefix: *das Lieblingslied*)
+- **Lieblings-** – favourite
 - **das Konzert** (-e) – concert
 - **die Band** (-s) – band
 - **die CD** (-s) – CD
