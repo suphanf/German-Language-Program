@@ -635,7 +635,7 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **suchen** – to look for
 - **finden** (irr.) – to find
 - **an|probieren** – to try on
-- **um|tauschen** – to exchange
+- **um|tauschen** – to exchange (goods in a shop)
 - **schenken** – to give (a present)
 - **das Geschäft** (-e) – shop
 - **der Laden** (Läden) – shop
@@ -934,7 +934,7 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **der Abflug** (-flüge) – departure (of a flight)
 - **ein|steigen** (irr.) – to get on/in
 - **aus|steigen** (irr.) – to get off/out
-- **um|steigen** (irr.) – to change (trains)
+- **um|steigen** (irr.) – to change trains, change buses
 - **warten** – to wait
 - **warten auf** (+ Akk) – to wait for
 - **buchen** – to book
@@ -1414,8 +1414,9 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **drücken** – to press, push
 - **riechen** (irr.) – to smell
 - **versuchen** – to try
-- **ändern** – to change
-- **wechseln** – to change, swap
+- **ändern** – to change, alter (something about a thing)
+- **sich ändern** – to change (by itself), become different
+- **wechseln** – to change, exchange (one thing for another)
 - **vergessen** (irr.) – to forget
 - **sich erinnern** – to remember, recall
 - **sich erinnern an** (+ Akk) – to remember (something)
