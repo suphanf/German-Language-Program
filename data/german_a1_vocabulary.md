@@ -1373,10 +1373,12 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **lesen** (irr.) – to read
 - **wissen** (irr.) – to know (a fact)
 - **kennen** (irr.) – to know (be familiar with)
-- **denken** (irr.) – to think
-- **denken an** (+ Akk) – to think of, think about
-- **glauben** – to believe
-- **meinen** – to mean, think
+- **denken** (irr.) – to think (mental activity)
+- **denken an** (+ Akk) – to think of, think about (someone, something)
+- **nach|denken** (irr.) – to think over, reflect
+- **glauben** – to believe; to think (something is probably so)
+- **meinen** – to be of the opinion; to mean, refer to
+- **finden** (irr.) – to think, consider (something good, bad, etc.)
 - **hoffen** – to hope
 - **wünschen** – to wish
 - **brauchen** – to need
