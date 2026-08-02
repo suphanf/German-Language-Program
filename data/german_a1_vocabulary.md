@@ -1365,9 +1365,10 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **bitten** (irr.) – to ask, request
 - **fragen** – to ask
 - **antworten** (+ Dat) – to answer
-- **rufen** (irr.) – to call
-- **an|rufen** (irr.) – to phone
-- **telefonieren** – to telephone
+- **rufen** (irr.) – to call out, shout; to summon
+- **an|rufen** (irr., + Akk) – to phone (someone), give someone a call
+- **telefonieren** – to be on the phone
+- **telefonieren mit** (+ Dat) – to talk on the phone to (someone)
 - **schreiben** (irr.) – to write
 - **lesen** (irr.) – to read
 - **wissen** (irr.) – to know (a fact)
