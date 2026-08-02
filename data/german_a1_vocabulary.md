@@ -1350,7 +1350,7 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **kriegen** – to get (colloquial)
 - **schicken** – to send
 - **zeigen** – to show
-- **finden** (irr.) – to find
+- **finden** (irr.) – to find; to think, consider (something good, bad)
 - **suchen** – to look for
 - **sehen** (irr.) – to see
 - **an|sehen / an|schauen** – to look at
@@ -1378,7 +1378,6 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **nach|denken** (irr.) – to think over, reflect
 - **glauben** – to believe; to think (something is probably so)
 - **meinen** – to be of the opinion; to mean, refer to
-- **finden** (irr.) – to think, consider (something good, bad, etc.)
 - **hoffen** – to hope
 - **wünschen** – to wish
 - **brauchen** – to need
