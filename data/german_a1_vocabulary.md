@@ -1127,7 +1127,6 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **die Kamera** (-s) – camera
 - **das Foto** (Fotos) – photo
 - **das Buch** (Bücher) – book
-- **das Spiel** (-e) – game
 - **die Karte** (-n) – card
 
 ---
