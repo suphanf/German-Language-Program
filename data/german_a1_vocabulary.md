@@ -15,7 +15,7 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **Gute Nacht** – good night
 - **Grüß Gott** – hello (Southern Germany, Austria)
 - **Servus** – hi / bye (Southern Germany, Austria)
-- **Tschüs / Tschüss** – bye
+- **Tschüss** – bye
 - **Auf Wiedersehen** – goodbye
 - **Auf Wiederhören** – goodbye (on the phone)
 - **Bis bald** – see you soon
@@ -24,13 +24,16 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **Bis dann** – see you then
 - **Schönen Tag noch** – have a nice day
 - **Willkommen** – welcome
-- **Wie geht es Ihnen? / Wie geht's?** – how are you?
+- **Wie geht es Ihnen?** – how are you? formal
+- **Wie geht's?** – how are you? informal short form
 - **Mir geht es gut.** – I'm fine.
 - **Es geht.** – so-so
-- **Und Ihnen? / Und dir?** – and you?
+- **Und Ihnen?** – and you? formal
+- **Und dir?** – and you? informal
 - **bitte** – please / you're welcome
 - **danke** – thank you
-- **Danke schön / Vielen Dank** – thank you very much
+- **Danke schön** – thank you very much
+- **Vielen Dank** – many thanks
 - **Bitte schön** – you're welcome / here you go
 - **Gern geschehen** – you're welcome
 - **Entschuldigung** – excuse me / sorry
@@ -44,8 +47,9 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **vielleicht** – maybe
 - **natürlich** – of course
 - **klar** – sure
-- **gern / gerne** – gladly
-- **okay / in Ordnung** – okay
+- **gern** – gladly
+- **okay** – okay
+- **in Ordnung** – all right, agreed
 - **Viel Glück** – good luck
 - **Viel Spaß** – have fun
 - **Viel Erfolg** – good luck (with work/exam)
@@ -58,11 +62,13 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **Alles Gute zum Geburtstag** – happy birthday
 - **Frohe Weihnachten** – merry Christmas
 - **Frohes neues Jahr** – happy new year
-- **Schöne Grüße / Liebe Grüße** – best regards / kind regards
+- **Schöne Grüße** – best regards
+- **Liebe Grüße** – kind regards
 - **der Gruß** (Grüße) – greeting
 - **Sehr geehrte Damen und Herren** – Dear Sir or Madam
 - **die Anrede** (-n) – form of address, salutation
-- **Liebe/Lieber ...** – Dear ... (informal letter)
+- **Lieber ...** – Dear ... to a man, informal letter
+- **Liebe ...** – Dear ... to a woman, informal letter
 
 ---
 
@@ -70,7 +76,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 
 - **der Name** (Namen) – name
 - **der Vorname** (Vornamen) – first name
-- **der Familienname / der Nachname** (-n) – surname
+- **der Familienname** (-n) – surname, family name
+- **der Nachname** (-n) – surname, last name
 - **die Adresse** (Adressen) – address
 - **die Straße** (Straßen) – street
 - **die Hausnummer** (-n) – house number
@@ -111,7 +118,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **der Ausweis** (-e) – ID card
 - **der Personalausweis** (-e) – identity card
 - **die Papiere** (pl.) – documents, papers
-- **der Pass / der Reisepass** (Pässe) – passport
+- **der Pass** (Pässe) – passport
+- **der Reisepass** (Pässe) – passport, full formal word
 - **das Visum** (Visa) – visa
 - **die Anmeldung** (-en) – registration
 - **an|melden** – to register
@@ -170,17 +178,20 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **die Hälfte** (-n) – the half
 - **ein Viertel** – a quarter
 - **das Prozent** (-e) – percent
-- **das Paar / ein paar** – pair / a few
+- **das Paar** (-e) – pair, couple
+- **ein paar** – a few
 - **das Stück** (-e) – piece
 - **das Gramm** – gram
-- **das Kilo / das Kilogramm** – kilogram
+- **das Kilo** – kilo
+- **das Kilogramm** – kilogram
 - **das Gewicht** (-e) – weight
 - **das Pfund** – pound (500 g)
 - **der Liter** – litre
 - **der Meter** – metre
 - **der Kilometer** – kilometre
 - **der Grad** – degree
-- **plus / minus** – plus / minus
+- **plus** – plus
+- **minus** – minus
 - **mal** – times
 - **geteilt durch** – divided by
 - **rechnen** – to calculate
@@ -189,11 +200,13 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **wenig** – little
 - **mehr** – more
 - **weniger** – less
-- **alle / alles** – all / everything
+- **alle** – all, everyone
+- **alles** – everything
 - **etwas** – something, some
 - **nichts** – nothing
 - **genug** – enough
-- **ungefähr / etwa** – approximately
+- **ungefähr** – approximately
+- **etwa** – about, roughly
 - **circa (ca.)** – about
 - **fast** – almost
 - **ganz** – whole, quite
@@ -259,7 +272,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **oft** – often
 - **manchmal** – sometimes
 - **selten** – rarely
-- **nie / niemals** – never
+- **nie** – never
+- **niemals** – never ever, emphatic
 - **täglich** – daily
 - **einmal** – once
 - **zweimal** – twice
@@ -283,7 +297,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **der Mittwoch** – Wednesday
 - **der Donnerstag** – Thursday
 - **der Freitag** – Friday
-- **der Samstag / der Sonnabend** – Saturday
+- **der Samstag** – Saturday
+- **der Sonnabend** – Saturday, northern German word
 - **der Sonntag** – Sunday
 - **der Werktag** (-e) – working day
 - **der Feiertag** (-e) – public holiday
@@ -316,8 +331,10 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **die Eltern** (pl.) – parents
 - **der Vater** (Väter) – father
 - **die Mutter** (Mütter) – mother
-- **der Papa / der Vati** – dad
-- **die Mama / die Mutti** – mum
+- **der Papa** (-s) – dad
+- **der Vati** (-s) – daddy
+- **die Mama** (-s) – mum
+- **die Mutti** (-s) – mummy
 - **das Kind** (Kinder) – child
 - **der Sohn** (Söhne) – son
 - **die Tochter** (Töchter) – daughter
@@ -325,34 +342,46 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **der Bruder** (Brüder) – brother
 - **die Schwester** (Schwestern) – sister
 - **die Großeltern** (pl.) – grandparents
-- **der Großvater / der Opa** (Großväter / Opas) – grandfather
-- **die Großmutter / die Oma** (Großmütter / Omas) – grandmother
-- **der Enkel** (–) / **die Enkelin** (-nen) – grandson / granddaughter
+- **der Großvater** (Großväter) – grandfather
+- **der Opa** (Opas) – grandpa
+- **die Großmutter** (Großmütter) – grandmother
+- **die Oma** (Omas) – grandma
+- **der Enkel** (–) – grandson
+- **die Enkelin** (-nen) – granddaughter
 - **der Onkel** (–) – uncle
 - **die Tante** (-n) – aunt
-- **der Cousin** (-s) / **die Cousine** (-n) – cousin
+- **der Cousin** (-s) – male cousin
+- **die Cousine** (-n) – female cousin
 - **der Neffe** (-n) – nephew
 - **die Nichte** (-n) – niece
 - **der Mann** (Männer) – man, husband
 - **die Frau** (Frauen) – woman, wife
 - **der Herr** (-en) – gentleman, Mr
 - **die Dame** (-n) – lady
-- **der Ehemann / die Ehefrau** – husband / wife
-- **der Partner** (–) / **die Partnerin** (-nen) – partner
-- **der Freund** (Freunde) / **die Freundin** (-nen) – friend, boyfriend / girlfriend
+- **der Ehemann** (-männer) – husband
+- **die Ehefrau** (-en) – wife
+- **der Partner** (–) – male partner
+- **die Partnerin** (-nen) – female partner
+- **der Freund** (Freunde) – male friend, boyfriend
+- **die Freundin** (-nen) – female friend, girlfriend
 - **der Junge** (Jungen) – boy
 - **das Mädchen** (–) – girl
 - **das Baby** (Babys) – baby
-- **der/die Erwachsene** (-n) – adult
+- **der Erwachsene** (-n) – adult man
+- **die Erwachsene** (-n) – adult woman
 - **der Mensch** (Menschen) – human being, person
 - **die Person** (Personen) – person
 - **die Leute** (pl.) – people
-- **der Nachbar** (-n) / **die Nachbarin** (-nen) – neighbour
+- **der Nachbar** (-n) – male neighbour
+- **die Nachbarin** (-nen) – female neighbour
 - **der Gast** (Gäste) – guest
-- **der/die Bekannte** (-n) – acquaintance
+- **der Bekannte** (-n) – male acquaintance
+- **die Bekannte** (-n) – female acquaintance
 - **der Jugendliche** (-n) – young person, teenager
-- **der Kollege** (-n) / **die Kollegin** (-nen) – colleague
-- **der Chef** (-s) / **die Chefin** (-nen) – boss
+- **der Kollege** (-n) – male colleague
+- **die Kollegin** (-nen) – female colleague
+- **der Chef** (-s) – male boss
+- **die Chefin** (-nen) – female boss
 - **die Hochzeit** (-en) – wedding
 - **heiraten** – to marry
 - **gestorben** – died, deceased
@@ -375,7 +404,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **italienisch** – Italian
 - **Spanien** – Spain
 - **spanisch** – Spanish
-- **England / Großbritannien** – England / Great Britain
+- **England** – England
+- **Großbritannien** – Great Britain
 - **englisch** – English
 - **Polen** – Poland
 - **polnisch** – Polish
@@ -388,7 +418,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **die Niederlande** – the Netherlands
 - **Portugal** – Portugal
 - **portugiesisch** – Portuguese
-- **die USA / Amerika** – the USA / America
+- **die USA** (pl.) – the USA
+- **Amerika** – America
 - **amerikanisch** – American
 - **China** – China
 - **chinesisch** – Chinese
@@ -398,8 +429,10 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **Brasilien** – Brazil
 - **Ägypten** – Egypt
 - **arabisch** – Arabic
-- **der Deutsche / die Deutsche** – German (person)
-- **der Ausländer** (–) / **die Ausländerin** (-nen) – foreigner
+- **der Deutsche** (-n) – German man
+- **die Deutsche** (-n) – German woman
+- **der Ausländer** (–) – male foreigner
+- **die Ausländerin** (-nen) – female foreigner
 - **ausländisch** – foreign
 - **das Ausland** – abroad
 - **die Heimat** – home country
@@ -425,8 +458,10 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **das Kinderzimmer** (–) – children's room
 - **das Arbeitszimmer** (–) – study
 - **die Küche** (Küchen) – kitchen
-- **das Bad / das Badezimmer** (Bäder) – bathroom
-- **die Toilette / das WC** (-n) – toilet
+- **das Bad** (Bäder) – bathroom
+- **das Badezimmer** (–) – bathroom, full word
+- **die Toilette** (-n) – toilet
+- **das WC** (-s) – WC, lavatory
 - **der Flur** (-e) – hallway
 - **der Balkon** (-e/-s) – balcony
 - **die Terrasse** (-n) – terrace
@@ -434,14 +469,16 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **der Keller** (–) – cellar
 - **die Garage** (-n) – garage
 - **die Treppe** (-n) – stairs
-- **der Aufzug / der Fahrstuhl** (-züge/-stühle) – lift, elevator
+- **der Aufzug** (-züge) – lift, elevator
+- **der Fahrstuhl** (-stühle) – lift, alternative word
 - **die Tür** (Türen) – door
 - **das Fenster** (–) – window
 - **die Wand** (Wände) – wall
 - **der Boden** (Böden) – floor
 - **die Decke** (-n) – ceiling; blanket
 - **das Dach** (Dächer) – roof
-- **der Stock / die Etage** (-werke/-n) – floor, storey
+- **der Stock** (-werke) – floor, storey
+- **die Etage** (-n) – floor, level
 - **das Erdgeschoss** – ground floor
 - **die Miete** (-n) – rent
 - **der Mieter** (–) – tenant
@@ -506,7 +543,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **das Essen** (–) – food, meal
 - **das Frühstück** – breakfast
 - **das Mittagessen** – lunch
-- **das Abendessen / das Abendbrot** – dinner
+- **das Abendessen** (–) – dinner, evening meal
+- **das Abendbrot** – cold evening meal of bread
 - **der Hunger** – hunger
 - **hungrig** – hungry
 - **der Durst** – thirst
@@ -553,7 +591,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **die Tomate** (-n) – tomato
 - **die Gurke** (-n) – cucumber
 - **die Zwiebel** (-n) – onion
-- **die Karotte / die Möhre** (-n) – carrot
+- **die Karotte** (-n) – carrot
+- **die Möhre** (-n) – carrot, alternative word
 - **der Pilz** (-e) – mushroom
 - **der Paprika** (-s) – pepper (vegetable)
 - **das Obst** – fruit
@@ -587,7 +626,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **die Speisekarte** (-n) – menu
 - **die Rechnung** (-en) – bill
 - **das Trinkgeld** (-er) – tip
-- **der Kellner** (–) / **die Kellnerin** (-nen) – waiter / waitress
+- **der Kellner** (–) – male waiter / waitress
+- **die Kellnerin** (-nen) – female waiter / waitress
 - **die Bedienung** – service, waiter
 - **das Glas** (Gläser) – glass
 - **die Tasse** (-n) – cup
@@ -629,7 +669,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **ein|kaufen** – to shop
 - **kaufen** – to buy
 - **verkaufen** – to sell
-- **bezahlen / zahlen** – to pay
+- **bezahlen** – to pay for something
+- **zahlen** – to pay
 - **kosten** – to cost
 - **brauchen** – to need
 - **suchen** – to look for
@@ -658,26 +699,32 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **das Angebot** (-e) – offer, deal
 - **der Rabatt** (-e) – discount
 - **die Größe** (-n) – size
-- **die Quittung / der Kassenbon** (-en/-s) – receipt
+- **die Quittung** (-en) – receipt
+- **der Kassenbon** (-s) – till receipt
 - **die Tüte** (-n) – bag
 - **die Packung** (-en) – packet
 - **der Einkaufswagen** (–) – shopping trolley
 - **die Lebensmittel** (pl.) – groceries, food
 - **die Zigarette** (-n) – cigarette
-- **der Kunde** (-n) / **die Kundin** (-nen) – customer
+- **der Kunde** (-n) – male customer
+- **die Kundin** (-nen) – female customer
 - **die Anzeige** (-n) – advertisement, notice
 - **die Bank** (-en) – bank
 - **das Konto** (Konten) – account
 - **die Kreditkarte** (-n) – credit card
 - **überweisen** – to transfer (money)
 - **die EC-Karte** (-n) – debit card
-- **bar / in bar** – in cash
+- **bar** – cash
+- **in bar** – in cash
 - **teuer** – expensive
 - **billig** – cheap
 - **günstig** – reasonably priced
-- **kostenlos / gratis** – free of charge
-- **geöffnet / offen** – open
-- **geschlossen / zu** – closed
+- **kostenlos** – free of charge
+- **gratis** – free, for nothing
+- **geöffnet** – open, of a shop
+- **offen** – open
+- **geschlossen** – closed
+- **zu** – shut
 - **die Öffnungszeiten** (pl.) – opening hours
 
 **Clothes**
@@ -689,7 +736,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **das Hemd** (-en) – shirt
 - **die Bluse** (-n) – blouse
 - **das T-Shirt** (-s) – T-shirt
-- **der Pullover / der Pulli** (–/-s) – jumper, sweater
+- **der Pullover** (–) – jumper, sweater
+- **der Pulli** (-s) – jumper, short informal word
 - **die Jacke** (-n) – jacket
 - **der Mantel** (Mäntel) – coat
 - **der Anzug** (Anzüge) – suit
@@ -756,7 +804,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **die Allergie** (-n) – allergy
 - **der Unfall** (Unfälle) – accident
 - **die Verletzung** (-en) – injury
-- **der Arzt** (Ärzte) / **die Ärztin** (-nen) – doctor
+- **der Arzt** (Ärzte) – male doctor
+- **die Ärztin** (-nen) – female doctor
 - **der Zahnarzt** (-ärzte) – dentist
 - **der Doktor** (-en) – doctor
 - **die Praxis** (Praxen) – doctor's practice
@@ -808,35 +857,49 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **arbeitslos** – unemployed
 - **selbstständig** – self-employed
 - **die Rente** – pension
-- **der Rentner** (–) / **die Rentnerin** (-nen) – pensioner
-- **der Lehrer** (–) / **die Lehrerin** (-nen) – teacher
-- **der Arzt** / **die Ärztin** – doctor
-- **der Verkäufer** (–) / **die Verkäuferin** (-nen) – shop assistant
-- **der Kellner** / **die Kellnerin** – waiter / waitress
-- **der Koch** (Köche) / **die Köchin** (-nen) – cook
+- **der Rentner** (–) – male pensioner
+- **die Rentnerin** (-nen) – female pensioner
+- **der Lehrer** (–) – male teacher
+- **die Lehrerin** (-nen) – female teacher
+- **der Arzt** (–) – male doctor
+- **die Ärztin** (-nen) – female doctor
+- **der Verkäufer** (–) – male shop assistant
+- **die Verkäuferin** (-nen) – female shop assistant
+- **der Kellner** (–) – waiter
+- **die Kellnerin** (-nen) – waitress
+- **der Koch** (Köche) – male cook
+- **die Köchin** (-nen) – female cook
 - **der Bäcker** (–) – baker
-- **der Friseur** (-e) / **die Friseurin** (-nen) – hairdresser
-- **der Polizist** (-en) / **die Polizistin** (-nen) – police officer
-- **der Beamte** (-n) / **die Beamtin** (-nen) – official, civil servant
+- **der Friseur** (-e) – male hairdresser
+- **die Friseurin** (-nen) – female hairdresser
+- **der Polizist** (-en) – male police officer
+- **die Polizistin** (-nen) – female police officer
+- **der Beamte** (-n) – male official, civil servant
+- **die Beamtin** (-nen) – female official, civil servant
 - **der Ingenieur** (-e) – engineer
 - **der Techniker** (–) – technician
 - **der Mechaniker** (–) – mechanic
 - **der Elektriker** (–) – electrician
 - **der Programmierer** (–) – programmer
-- **der Krankenpfleger** (–) / **die Krankenschwester** (-n) – nurse
+- **der Krankenpfleger** (–) – male nurse
+- **die Krankenschwester** (-n) – female nurse
 - **der Journalist** (-en) – journalist
 - **der Musiker** (–) – musician
 - **der Künstler** (–) – artist
-- **der Sekretär** (-e) / **die Sekretärin** (-nen) – secretary
+- **der Sekretär** (-e) – male secretary
+- **die Sekretärin** (-nen) – female secretary
 - **der Fahrer** (–) – driver
 - **der Taxifahrer** (–) – taxi driver
 - **der Architekt** (-en) – architect
 - **der Anwalt** (Anwälte) – lawyer
 - **der Bauer** (-n) – farmer
-- **die Hausfrau** (-en) / **der Hausmann** (-männer) – housewife / househusband
-- **der Student** (-en) / **die Studentin** (-nen) – student (university)
+- **die Hausfrau** (-en) – housewife
+- **der Hausmann** (-männer) – househusband
+- **der Student** (-en) – male student (university)
+- **die Studentin** (-nen) – female student (university)
 - **das Studium** (Studien) – (university) studies
-- **der Schüler** (–) / **die Schülerin** (-nen) – pupil
+- **der Schüler** (–) – male pupil
+- **die Schülerin** (-nen) – female pupil
 
 ---
 
@@ -849,7 +912,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **die Klasse** (-n) – class
 - **die Gruppe** (-n) – group
 - **das Klassenzimmer** (–) – classroom
-- **die Universität / die Uni** (-en) – university
+- **die Universität** (-en) – university
+- **die Uni** (-s) – uni, short informal word
 - **der Kindergarten** (-gärten) – kindergarten
 - **die Sprachschule** (-n) – language school
 - **die Hausaufgabe** (-n) – homework
@@ -866,7 +930,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **an|klicken** – to click on
 - **das Blatt** (Blätter) – sheet
 - **die Seite** (-n) – page
-- **der Kugelschreiber / der Kuli** (–/-s) – ballpoint pen
+- **der Kugelschreiber** (–) – ballpoint pen
+- **der Kuli** (-s) – biro, short informal word
 - **der Stift** (-e) – pen
 - **der Bleistift** (-e) – pencil
 - **der Radiergummi** (-s) – eraser
@@ -909,14 +974,17 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **unterstreichen** – to underline
 - **ergänzen** – to complete
 - **aus|füllen** – to fill in
-- **notieren / auf|schreiben** – to note down
+- **notieren** – to note down
+- **auf|schreiben** (irr.) – to write down
 - **markieren** – to highlight
 - **vor|lesen** (irr.) – to read aloud
 - **buchstabieren** – to spell
 - **richtig** – correct
 - **falsch** – wrong
-- **einfach / leicht** – easy
-- **schwierig / schwer** – difficult
+- **einfach** – easy, simple
+- **leicht** – easy, not difficult
+- **schwierig** – difficult
+- **schwer** – hard, heavy
 
 ---
 
@@ -972,7 +1040,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **die S-Bahn** (-en) – suburban train
 - **die Straßenbahn** (-en) – tram
 - **das Taxi** (-s) – taxi
-- **das Fahrrad / das Rad** (-räder) – bicycle
+- **das Fahrrad** (-räder) – bicycle
+- **das Rad** (Räder) – bike, wheel
 - **das Motorrad** (-räder) – motorbike
 - **das Schiff** (-e) – ship
 - **zu Fuß** – on foot
@@ -995,7 +1064,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **die Halbpension** – half board
 - **die Pension** (-en) – guesthouse
 - **die Rezeption** (-en) – reception
-- **das Einzelzimmer / das Doppelzimmer** (–) – single / double room
+- **das Einzelzimmer** (–) – single room
+- **das Doppelzimmer** (–) – double room
 - **die Buchung** (-en) – booking
 - **der Tourist** (-en) – tourist
 - **die Sehenswürdigkeit** (-en) – sight, tourist attraction
@@ -1073,7 +1143,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **die Freizeit** – free time
 - **das Hobby** (Hobbys) – hobby
 - **der Sport** – sport
-- **Sport treiben / machen** – to do sport
+- **Sport treiben** – to do sport
+- **Sport machen** – to do sport, more colloquial
 - **spielen** – to play
 - **schwimmen** (irr.) – to swim
 - **laufen** (irr.) – to run, walk
@@ -1139,7 +1210,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **sonnig** – sunny
 - **scheinen** (irr.) – to shine
 - **die Wolke** (-n) – cloud
-- **bewölkt / wolkig** – cloudy
+- **bewölkt** – overcast
+- **wolkig** – cloudy
 - **der Regen** – rain
 - **regnen** – to rain
 - **der Regenschirm** (-e) – umbrella
@@ -1167,7 +1239,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **der Wald** (Wälder) – forest
 - **der Berg** (Berge) – mountain
 - **der See** (Seen) – lake
-- **das Meer** (-e) / **die See** – sea
+- **das Meer** (-e) – sea, ocean
+- **die See** – sea
 - **der Fluss** (Flüsse) – river
 - **der Strand** (Strände) – beach
 - **die Insel** (-n) – island
@@ -1202,7 +1275,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **braun** – brown
 - **orange** – orange
 - **rosa** – pink
-- **lila / violett** – purple
+- **lila** – purple, lilac
+- **violett** – violet
 - **bunt** – colourful
 - **hell** – light
 - **dunkel** – dark
@@ -1227,7 +1301,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **hoch** – high
 - **niedrig** – low
 - **breit** – wide
-- **schmal / eng** – narrow
+- **schmal** – narrow
+- **eng** – tight, cramped
 - **dick** – thick, fat
 - **dünn** – thin
 - **schwer** – heavy, difficult
@@ -1240,7 +1315,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **laut** – loud
 - **leise** – quiet
 - **sauber** – clean
-- **schmutzig / dreckig** – dirty
+- **schmutzig** – dirty
+- **dreckig** – filthy
 - **voll** – full
 - **leer** – empty
 - **offen** – open
@@ -1256,7 +1332,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **langweilig** – boring
 - **lustig** – funny
 - **traurig** – sad
-- **glücklich / froh** – happy
+- **glücklich** – happy
+- **froh** – glad
 - **zufrieden** – satisfied
 - **müde** – tired
 - **wach** – awake
@@ -1266,7 +1343,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **höflich** – polite
 - **ruhig** – calm
 - **nervös** – nervous
-- **böse / ärgerlich** – angry
+- **böse** – angry, cross
+- **ärgerlich** – annoyed
 - **allein** – alone
 - **zusammen** – together
 - **gleich** – same
@@ -1352,7 +1430,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **finden** (irr.) – to find; to think, consider (something good, bad)
 - **suchen** – to look for
 - **sehen** (irr.) – to see
-- **an|sehen / an|schauen** – to look at
+- **an|sehen** (irr.) – to look at
+- **an|schauen** – to watch, view
 - **aus|sehen** (irr.) – to look, appear
 - **hören** – to hear
 - **sprechen** (irr.) – to speak
@@ -1404,8 +1483,10 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **öffnen** – to open (not separable)
 - **zu|machen** – to close (separable verb)
 - **schließen** (irr.) – to close (not separable)
-- **an|machen / ein|schalten** – to switch on
-- **aus|machen / aus|schalten** – to switch off
+- **an|machen** – to turn on
+- **ein|schalten** – to switch on
+- **aus|machen** – to turn off
+- **aus|schalten** – to switch off
 - **funktionieren** – to work, function
 - **reparieren** – to repair
 - **benutzen** – to use
@@ -1452,8 +1533,10 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **woher** – where from
 - **wann** – when
 - **wie** – how
-- **warum / wieso** – why
-- **wie viel / wie viele** – how much / how many
+- **warum** – why
+- **wieso** – why, how come
+- **wie viel** – how much
+- **wie viele** – how many
 - **wie lange** – how long
 - **wie oft** – how often
 - **wie alt** – how old
@@ -1470,13 +1553,17 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **ihr** – you (informal pl.)
 - **sie** – they
 - **Sie** – you (formal)
-- **mich / mir** – me
-- **dich / dir** – you
-- **ihn / ihm** – him
+- **mich** – me, accusative
+- **mir** – me, dative
+- **dich** – you, accusative
+- **dir** – you, dative
+- **ihn** – him, accusative
+- **ihm** – him, dative
 - **ihr** – her
 - **uns** – us
 - **euch** – you
-- **sie / ihnen** – them
+- **sie** – them, accusative
+- **ihnen** – them, dative
 - **Ihnen** – you (formal)
 - **man** – one, you (impersonal)
 
@@ -1491,9 +1578,13 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **Ihr** – your (formal)
 
 **Articles & determiners**
-- **der / die / das** – the
-- **ein / eine** – a, an
-- **kein / keine** – no, not a
+- **der** – the, masculine
+- **die** – the, feminine
+- **das** – the, neuter
+- **ein** – a, masculine or neuter
+- **eine** – a, feminine
+- **kein** – no, not a, masculine or neuter
+- **keine** – no, not a, feminine
 - **dies-** – this (*dieser, diese, dieses ...*)
 - **jed-** – every (*jeder, jede, jedes ...*)
 - **alle** – all
@@ -1549,7 +1640,9 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **noch** – still
 - **schon** – already
 - **wieder** – again
-- **gern / lieber / am liebsten** – gladly / rather / most of all
+- **gern** – gladly
+- **lieber** – rather, preferably
+- **am liebsten** – most of all
 - **vielleicht** – maybe
 - **natürlich** – of course
 - **leider** – unfortunately
@@ -1557,7 +1650,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **wirklich** – really
 - **eigentlich** – actually
 - **hier** – here
-- **da / dort** – there
+- **da** – there
+- **dort** – over there
 - **oben** – above
 - **unten** – below
 - **daneben** – next to it
@@ -1581,7 +1675,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 ## 21. Useful Exam Phrases
 
 **Introducing yourself**
-- **Ich heiße ... / Mein Name ist ...** – My name is ...
+- **Ich heiße ...** – My name is ...
+- **Mein Name ist ...** – My name is ... more formal
 - **Ich komme aus ...** – I come from ...
 - **Ich wohne in ...** – I live in ...
 - **Ich bin ... Jahre alt.** – I am ... years old.
@@ -1601,8 +1696,10 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **Ich habe eine Frage.** – I have a question.
 
 **Everyday situations**
-- **Wie spät ist es? / Wie viel Uhr ist es?** – What time is it?
-- **Was kostet das? / Wie viel kostet das?** – How much is that?
+- **Wie spät ist es?** – What time is it?
+- **Wie viel Uhr ist es?** – What o'clock is it?
+- **Was kostet das?** – How much is that?
+- **Wie viel kostet das?** – How much does that cost?
 - **Ich hätte gern ...** – I would like ...
 - **Ich möchte ...** – I would like ...
 - **Die Rechnung, bitte.** – The bill, please.
@@ -1617,7 +1714,8 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **Das ist eine gute Idee.** – That's a good idea.
 - **Ich habe leider keine Zeit.** – Unfortunately I have no time.
 - **Wollen wir uns treffen?** – Shall we meet?
-- **Wann passt es dir/Ihnen?** – When suits you?
+- **Wann passt es dir?** – When suits you? informal
+- **Wann passt es Ihnen?** – When suits you? formal
 
 ---
 
