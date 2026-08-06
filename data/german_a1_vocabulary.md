@@ -13,8 +13,6 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **Guten Tag** – good day / hello
 - **Guten Abend** – good evening
 - **Gute Nacht** – good night
-- **Grüß Gott** – hello (Southern Germany, Austria)
-- **Servus** – hi / bye (Southern Germany, Austria)
 - **Tschüss** – bye
 - **Auf Wiedersehen** – goodbye
 - **Auf Wiederhören** – goodbye (on the phone)
@@ -861,7 +859,7 @@ A trailing hyphen (**letzt-**, **dies-**) marks a stem that never stands alone: 
 - **die Rentnerin** (-nen) – female pensioner
 - **der Lehrer** (–) – male teacher
 - **die Lehrerin** (-nen) – female teacher
-- **der Arzt** (–) – male doctor
+- **der Arzt** (Ärzte) – male doctor
 - **die Ärztin** (-nen) – female doctor
 - **der Verkäufer** (–) – male shop assistant
 - **die Verkäuferin** (-nen) – female shop assistant
